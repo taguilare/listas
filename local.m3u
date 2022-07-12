@@ -1,21 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1059" tvg-name="Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/1200px-Repretel_4_logo.png" group-title="Nacionales",Canal 4
+#EXTINF:-1 tvg-id="1059" tvg-name="Repretel Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/1200px-Repretel_4_logo.png" group-title="Nacionales",Repretel Canal 4
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
 
-#EXTINF:-1 tvg-id="1059" tvg-name="Canal 6" tvg-logo="https://i2.paste.pics/01a892099fb8614f242806cdc8f94b4d.png" group-title="Nacionales",Canal 6
+#EXTINF:-1 tvg-id="1059" tvg-name="Repretel Canal 6" tvg-logo="https://i2.paste.pics/01a892099fb8614f242806cdc8f94b4d.png" group-title="Nacionales",Repretel Canal 6
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1043" tvg-name="Canal 7" tvg-logo="https://static3.teletica.com/Files/Sizes/2021/2/4/canales_1764889021_380x260.png" group-title="Nacionales",Teletica
+#EXTINF:-1 tvg-id="1043" tvg-name="Teletica Canal 7" tvg-logo="https://static3.teletica.com/Files/Sizes/2021/2/4/canales_1764889021_380x260.png" group-title="Nacionales",Teletica Canal 7
 https://www.dailymotion.com/cdn/live/video/x29e3wg.m3u8?sec=RRaQWohHhS0MzAc4pW5WUHVP7n7oAALxLD3ueQ9DolYIcco7sSbfabVXCYpa2TFSMxlhZzsDm5D5MPWvgXguUA&dmTs=395511&dmV1st=30D9AFB00A6A929E63206319C3D75000?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1043" tvg-name="Canal 8" tvg-logo="https://i2.paste.pics/060625379c33c11acc84be7cdc18b4eb.png" group-title="Nacionales",Multimedios Canal 8
+#EXTINF:-1 tvg-id="1043" tvg-name="Multimedios Canal 8" tvg-logo="https://i2.paste.pics/060625379c33c11acc84be7cdc18b4eb.png" group-title="Nacionales",Multimedios Canal 8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1060" tvg-name="Canal 11" tvg-logo="https://i2.paste.pics/ecb09bce24a74b422ff4fd6923b52300.png" group-title="Nacionales",Canal 11
+#EXTINF:-1 tvg-id="1060" tvg-name="Repretel Canal 11" tvg-logo="https://i2.paste.pics/ecb09bce24a74b422ff4fd6923b52300.png" group-title="Nacionales",Repretel Canal 11
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1" tvg-name="Canal 15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_con_sombra.png/1200px-Logo_con_sombra.png" group-title="Nacionales",UCR canal 15
+#EXTINF:-1 tvg-id="1" tvg-name="Canal 15 UCR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_con_sombra.png/1200px-Logo_con_sombra.png" group-title="Nacionales",Canal 15 UCR
 http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="37" tvg-name="Canal 38" tvg-logo="https://lh3.googleusercontent.com/-JsoqJma_UaI/Xz5177aFy8I/AAAAAAAA4r8/2mN9M0HRshQfHf1Y1bH_ul9q22z36M41gCK8BGAsYHg/s0/2020-08-20.png" group-title="Nacionales",Canal 38
