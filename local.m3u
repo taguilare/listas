@@ -7,7 +7,7 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1043" tvg-name="Teletica Canal 7" tvg-logo="https://static3.teletica.com/Files/Sizes/2021/2/4/canales_1764889021_380x260.png" group-title="Nacionales",Teletica Canal 7
-https://www.dailymotion.com/cdn/live/video/x29e3wg.m3u8?PlaylistM3UCL
+https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5xEfuipygPcCN9DH_pz0RM6I8XEFJx158K1aadEInOnw)/dm/3/x29e3wg/d/live-2.m3u8#cell=lnyc?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1043" tvg-name="Multimedios Canal 8" tvg-logo="https://i2.paste.pics/060625379c33c11acc84be7cdc18b4eb.png" group-title="Nacionales",Multimedios Canal 8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?PlaylistM3UCL
