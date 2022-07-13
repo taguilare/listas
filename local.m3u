@@ -1,6 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="1059" tvg-name="Repretel Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/1200px-Repretel_4_logo.png" group-title="Nacionales",Repretel Canal 4
+https://www.youtube.com/watch?v=JSPUPLEdmC8
+
+#EXTINF:-1 tvg-id="1059" tvg-name="Repretel Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/1200px-Repretel_4_logo.png" group-title="Nacionales",Repretel Canal 4
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
 
 #EXTINF:-1 tvg-id="1059" tvg-name="Repretel Canal 6" tvg-logo="https://i2.paste.pics/01a892099fb8614f242806cdc8f94b4d.png" group-title="Nacionales",Repretel Canal 6
