@@ -287,9 +287,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2c
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079be62f9f8d6000783c8a4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="1053" tvg-name="Loco Motion" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="Anime",Loco Motion
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1112" tvg-name="Energeek Radio" tvg-logo="https://99designs.com/inspiration/logos/energy" group-title="Anime",Energeek 2
+#EXTINF:-1 tvg-id="1112" tvg-name="Energeek Radio" tvg-logo="https://images-workbench.99static.com/vp_cbMScOwVUD3G9Iql6Dl05zdA=/99designs-contests-attachments/126/126836/attachment_126836822" group-title="Anime",Energeek 2
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek" tvg-logo="https://99designs.com/inspiration/logos/energy" group-title="Anime",EnerGeek
+#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek" tvg-logo="https://images-workbench.99static.com/vp_cbMScOwVUD3G9Iql6Dl05zdA=/99designs-contests-attachments/126/126836/attachment_126836822" group-title="Anime",EnerGeek
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="5ee92e72fb286e0007285fec" tvg-name="#EXTINF" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Anime",Naruto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
