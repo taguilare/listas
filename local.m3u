@@ -153,6 +153,12 @@ https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="46" tvg-name="Chavo TV" tvg-logo="https://i2.paste.pics/363bdf769b4b91716d6ebb6db72d1d4b.png" group-title="Entretenimiento",Chavo TV
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 xui-id="33804" tvg-id="" tvg-name="TELENOVELAS HD" tvg-logo="http://visi4k.site:8080/images/1fa817c22fbdccaa0cc1ab0308488527.png" group-title="Entretenimiento",TELENOVELAS HD
+http://viki4k.site:8080/play/ev4vHxKyQ5qgeQ34TKlIMASPoQ6dSoLEezNcNUUtImlTU5BTGR_REvESliyoYU2W/ts
+#EXTINF:-1 xui-id="55274" tvg-id="rcn.novelas.co" tvg-name="RCN Novelas" tvg-logo="http://visi4k.site:8080/images/f96ee71d0ea21b3d809e32368cc9e345.png" group-title="Entretenimiento",RCN Novelas
+http://viki4k.site:8080/play/ev4vHxKyQ5qgeQ34TKlIMFOVOnvFhgW3XRHRCJiFEdpQ9o9iF3t_-p9frLGKFK7G/ts
+#EXTINF:-1 xui-id="1031" tvg-id="univisiontlnovelas.us" tvg-name="TLNovelas Univision HD" tvg-logo="http://visi4k.site:8080/images/0Vp4BL4Qahy7r7Pttx-uKGtNCnY6SC4r1LbYQxpuLUyoDD25eq2EFDwMa6GJ58ulMITMQNqhcor6oKeQKQ3WBs-QUfk17dApDylsWRMVJn-Tf60FUq6lGAiJM6bOwf5UDcNkoflbsfLaCo9RsKl5NFylUQ7jtUhZSBUqOIMLkiU.png" group-title="Entretenimiento",TLNovelas Univision HD
+http://viki4k.site:8080/play/ev4vHxKyQ5qgeQ34TKlIMIgA7WU6cGFO4q-c4GCFmrJxzqzZl4gmdVBbndgVnWAg/ts
 #EXTINF:-1 tvg-id="5dcddfbdb7cf0e0009ae09ea" tvg-name="Viajes" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" group-title="Entretenimiento",Viajes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5dcde0657444a40009cd2422" tvg-name="Cocina" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" group-title="Entretenimiento",Cocina
