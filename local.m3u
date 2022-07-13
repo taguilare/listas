@@ -81,9 +81,6 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="162" tvg-name="Extrema TV" tvg-logo="https://lh3.googleusercontent.com/-YvhgR9bWwEk/XqeKc33JN4I/AAAAAAAAySs/RsIopL6SbT42YZrOwRYaWYx0EztbDMSkQCK8BGAsYHg/s0/2020-04-27.png" group-title="Nacionales",Extrema TV
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="162" tvg-name="Super Cable TV" tvg-logo="http://www.supercable.co.cr/images/logos/Artboard_123.png" group-title="Nacionales",Super Cable TV
-https://usher.ttvnw.net/api/channel/hls/supercabletv.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="474" tvg-name="Latinos Up! TV" tvg-logo="https://lh3.googleusercontent.com/-E4ZhmiDMypI/XzxnbBAnLcI/AAAAAAAA4oQ/ZAvYXo5pj0QDb-wMX0XmFWJmEnPKg-jbACK8BGAsYHg/s0/2020-08-18.png" group-title="Peliculas",Latinos Up! TV
 https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
 
