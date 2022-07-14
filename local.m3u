@@ -11,6 +11,8 @@ https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5xEfuipygPcCN9DH_p
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1060" tvg-name="Repretel Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Repretel_11_logo.png" group-title="Nacionales",Repretel Canal 11
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1" tvg-name="SINART Canal 13" tvg-logo="https://costaricamedios.cr/wp-content/uploads/2018/11/LOGO-SINART-04-e1541526319605-298x300.png" group-title="Nacionales",SINART Canal 13
+https://www.dailymotion.com/cdn/live/video/x7vh8g3.m3u8?sec=CuMr-u1XeSxJYScbAhGkYsqcjlSby_0ZtAFhO8XRQisOXyUspr8ZVExIx75Rwi3i4CQ7w1XLGCNvRlfnKljuGA&dmTs=395511&dmV1st=30D9AFB00A6A929E63206319C3D75000
 #EXTINF:-1 tvg-id="1" tvg-name="Canal 15 UCR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_con_sombra.png/1200px-Logo_con_sombra.png" group-title="Nacionales",Canal 15 UCR
 http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="37" tvg-name="Canal 38" tvg-logo="https://lh3.googleusercontent.com/-JsoqJma_UaI/Xz5177aFy8I/AAAAAAAA4r8/2mN9M0HRshQfHf1Y1bH_ul9q22z36M41gCK8BGAsYHg/s0/2020-08-20.png" group-title="Nacionales",Canal 38
