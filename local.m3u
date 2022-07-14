@@ -1,10 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1059" tvg-name="Repretel Canal 2" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-2-Costa-Rica-en-vivo-Online.png" group-title="Nacionales",Repretel Canal 2
-https://dtvott-abc.akamaized.net/dash_live_1079/dash/1079_DISC_KIDS_CHILE-audio_72882_spa=72400-79572748442892.dash
-#EXTINF:-1 tvg-id="1059" tvg-name="Repretel Canal 2" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-2-Costa-Rica-en-vivo-Online.png" group-title="Nacionales",Repretel Canal 2
-https://b45458-p1-h1b-afzpzwog.2.cdn.telefonica.com/_45458/_-_psi_-_/live/disk1/Pasiones/DASH/Pasiones-avc1_3500000=2-scale=30000-init.mp4
-
-#EXTINF:-1 tvg-id="1059" tvg-name="Repretel Canal 2" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-2-Costa-Rica-en-vivo-Online.png" group-title="Nacionales",Repretel Canal 2
+#EXTINF:-1 tvg-id="1059" tvg-name="Canal 2" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-2-Costa-Rica-en-vivo-Online.png" group-title="Nacionales", Canal 2
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8
 #EXTINF:-1 tvg-id="1059" tvg-name="Repretel Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/1200px-Repretel_4_logo.png" group-title="Nacionales",Repretel Canal 4
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
