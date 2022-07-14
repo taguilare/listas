@@ -6,7 +6,7 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
 #EXTINF:-1 tvg-id="1059" tvg-name="Repretel Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Canal6CR.png/640px-Canal6CR.png" group-title="Nacionales",Repretel Canal 6
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1043" tvg-name="Teletica Canal 7" tvg-logo="https://static3.teletica.com/Files/Sizes/2021/2/4/canales_1764889021_380x260.png" group-title="Nacionales",Teletica Canal 7
-https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5xEfuipygPcCN9DH_pz0RM6I8XEFJx158K1aadEInOnw)/dm/3/x29e3wg/d/live-2.m3u8#cell=lnyc?PlaylistM3UCL
+http://viki4k.site:8080/play/ev4vHxKyQ5qgeQ34TKlIMPJNYYoL4dwCa5rV32VLUD3BtbflyH2n8Dy6EhtGEvs6/ts
 #EXTINF:-1 tvg-id="1043" tvg-name="Multimedios Canal 8" tvg-logo="https://i2.paste.pics/060625379c33c11acc84be7cdc18b4eb.png" group-title="Nacionales",Multimedios Canal 8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1060" tvg-name="Repretel Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Repretel_11_logo.png" group-title="Nacionales",Repretel Canal 11
@@ -161,6 +161,16 @@ http://viki4k.site:8080/play/ev4vHxKyQ5qgeQ34TKlIMASPoQ6dSoLEezNcNUUtImlTU5BTGR_
 http://viki4k.site:8080/play/ev4vHxKyQ5qgeQ34TKlIMFOVOnvFhgW3XRHRCJiFEdpQ9o9iF3t_-p9frLGKFK7G/ts
 #EXTINF:-1 xui-id="35483" tvg-id="pasiones.us" tvg-name="Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/640px-Pasiones_Tv_logo.svg.png" group-title="Entretenimiento",Pasiones
 http://viki4k.site:8080/play/ev4vHxKyQ5qgeQ34TKlIMDFFJuUnw57RgarA-U2OJR3H-JgzqGljhUzG3PVTU6mL/ts
+#EXTINF:-1 xui-id="933" tvg-id="azcorazon.mx" tvg-name="MEXICO | AZ CORAZON HD" tvg-logo="http://visi4k.site:8080/images/5258cf4009ee854de85a9a2792f98a59.png" group-title="Entretenimiento",MEXICO | AZ CORAZON HD
+http://viki4k.site:8080/play/ev4vHxKyQ5qgeQ34TKlIMBvujvOGZ9rvsgPaDhEG_OI/ts
+#EXTINF:-1 xui-id="934" tvg-id="aztecamundo.mx" tvg-name="MEXICO | AZ MUNDO FHD" tvg-logo="http://visi4k.site:8080/images/b2b1be2aa72811c86daf9679bc2dde1b.png" group-title="Entretenimiento",MEXICO | AZ MUNDO FHD
+http://viki4k.site:8080/play/ev4vHxKyQ5qgeQ34TKlIMOflp02GjqJVr22M9TlMQQA/ts
+#EXTINF:-1 xui-id="86840" tvg-id="" tvg-name="MEXICO | Azteca 7" tvg-logo="http://visi4k.site:8080/images/07046ccb6d37ff3686ed370fc60ae993.jpg" group-title="Entretenimiento",MEXICO | Azteca 7
+http://viki4k.site:8080/play/ev4vHxKyQ5qgeQ34TKlIMCCmOSbXvvcSd-sslngCldWRlUEJjQW9OZlcMjYznqvQ/ts
+#EXTINF:-1 xui-id="86838" tvg-id="" tvg-name="MEXICO | Canal 5" tvg-logo="http://visi4k.site:8080/images/e1b032ef88a4c5b069e5373dcb94eae3.jpg" group-title="Entretenimiento",MEXICO | Canal 5
+http://viki4k.site:8080/play/ev4vHxKyQ5qgeQ34TKlIMKFSU4S7Xm0eIvjKR-1ujPF2mDxgYG8pQNcymsWAhzGi/ts
+#EXTINF:-1 xui-id="1009" tvg-id="" tvg-name="MEXICO | LAS ESTRELLAS SD" tvg-logo="https://i.imgur.com/cjaJaL4.png" group-title="Entretenimiento",MEXICO | LAS ESTRELLAS SD
+http://viki4k.site:8080/play/ev4vHxKyQ5qgeQ34TKlIMAlwQXEu8g_t2Rav0cIjeSdYMWUguXoQhfKQ1MeQ2a-p/ts
 #EXTINF:-1 xui-id="726" tvg-id="univision66wgbo.us" tvg-name="Univision Chicago" tvg-logo="http://visi4k.site:8080/images/26da7297c970ad6dfa840608490a774b.png" group-title="Entretenimiento",Univision Chicago HD
 http://viki4k.site:8080/play/ev4vHxKyQ5qgeQ34TKlIML-L-d-oNc8NzsGPw3obWVA/ts
 #EXTINF:-1 xui-id="8049" tvg-id="univision23kuvn.us" tvg-name="Univision Dallas" tvg-logo="http://visi4k.site:8080/images/b2ec57cd41ee95d7bc715a07c83e877d.png" group-title="Entretenimiento",Univision Dallas HD
