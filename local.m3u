@@ -6,7 +6,7 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
 #EXTINF:-1 tvg-id="1059" tvg-name="Repretel Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Canal6CR.png/640px-Canal6CR.png" group-title="Nacionales",Repretel Canal 6
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1043" tvg-name="Teletica Canal 7" tvg-logo="https://static3.teletica.com/Files/Sizes/2021/2/4/canales_1764889021_380x260.png" group-title="Nacionales",Teletica Canal 7
-http://viki4k.site:8080/play/ev4vHxKyQ5qgeQ34TKlIMPJNYYoL4dwCa5rV32VLUD3BtbflyH2n8Dy6EhtGEvs6/ts
+
 #EXTINF:-1 tvg-id="1043" tvg-name="Multimedios Canal 8" tvg-logo="https://i2.paste.pics/060625379c33c11acc84be7cdc18b4eb.png" group-title="Nacionales",Multimedios Canal 8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1060" tvg-name="Repretel Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Repretel_11_logo.png" group-title="Nacionales",Repretel Canal 11
@@ -153,36 +153,6 @@ https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="46" tvg-name="Chavo TV" tvg-logo="https://i2.paste.pics/363bdf769b4b91716d6ebb6db72d1d4b.png" group-title="Entretenimiento",Chavo TV
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 xui-id="33804" tvg-id="" tvg-name="TELENOVELAS" tvg-logo="http://visi4k.site:8080/images/1fa817c22fbdccaa0cc1ab0308488527.png" group-title="Novelas",TELENOVELAS
-http://viki4k.site:8080/play/ev4vHxKyQ5qgeQ34TKlIMASPoQ6dSoLEezNcNUUtImlTU5BTGR_REvESliyoYU2W/ts
-#EXTINF:-1 xui-id="55274" tvg-id="rcn.novelas.co" tvg-name="RCN Novelas" tvg-logo="http://visi4k.site:8080/images/f96ee71d0ea21b3d809e32368cc9e345.png" group-title="Novelas",RCN Novelas
-http://viki4k.site:8080/play/ev4vHxKyQ5qgeQ34TKlIMFOVOnvFhgW3XRHRCJiFEdpQ9o9iF3t_-p9frLGKFK7G/ts
-#EXTINF:-1 xui-id="35483" tvg-id="pasiones.us" tvg-name="Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/640px-Pasiones_Tv_logo.svg.png" group-title="Novelas",Pasiones
-http://viki4k.site:8080/play/ev4vHxKyQ5qgeQ34TKlIMDFFJuUnw57RgarA-U2OJR3H-JgzqGljhUzG3PVTU6mL/ts
-#EXTINF:-1 xui-id="933" tvg-id="azcorazon.mx" tvg-name="AZ CORAZON HD" tvg-logo="http://visi4k.site:8080/images/5258cf4009ee854de85a9a2792f98a59.png" group-title="Novelas",AZ CORAZON
-http://viki4k.site:8080/play/ev4vHxKyQ5qgeQ34TKlIMBvujvOGZ9rvsgPaDhEG_OI/ts
-#EXTINF:-1 xui-id="934" tvg-id="aztecamundo.mx" tvg-name="AZ MUNDO FHD" tvg-logo="http://visi4k.site:8080/images/b2b1be2aa72811c86daf9679bc2dde1b.png" group-title="Novelas", AZ MUNDO FHD
-http://viki4k.site:8080/play/ev4vHxKyQ5qgeQ34TKlIMOflp02GjqJVr22M9TlMQQA/ts
-#EXTINF:-1 xui-id="86840" tvg-id="" tvg-name="Azteca 7" tvg-logo="http://visi4k.site:8080/images/07046ccb6d37ff3686ed370fc60ae993.jpg" group-title="Novelas", Azteca 7
-http://viki4k.site:8080/play/ev4vHxKyQ5qgeQ34TKlIMCCmOSbXvvcSd-sslngCldWRlUEJjQW9OZlcMjYznqvQ/ts
-#EXTINF:-1 xui-id="86838" tvg-id="" tvg-name="Canal 5" tvg-logo="http://visi4k.site:8080/images/e1b032ef88a4c5b069e5373dcb94eae3.jpg" group-title="Novelas", Canal 5
-http://viki4k.site:8080/play/ev4vHxKyQ5qgeQ34TKlIMKFSU4S7Xm0eIvjKR-1ujPF2mDxgYG8pQNcymsWAhzGi/ts
-#EXTINF:-1 xui-id="1009" tvg-id="" tvg-name="LAS ESTRELLAS SD" tvg-logo="https://i.imgur.com/cjaJaL4.png" group-title="Novelas",LAS ESTRELLAS SD
-http://viki4k.site:8080/play/ev4vHxKyQ5qgeQ34TKlIMAlwQXEu8g_t2Rav0cIjeSdYMWUguXoQhfKQ1MeQ2a-p/ts
-#EXTINF:-1 xui-id="726" tvg-id="univision66wgbo.us" tvg-name="Univision Chicago" tvg-logo="http://visi4k.site:8080/images/26da7297c970ad6dfa840608490a774b.png" group-title="Novelas",Univision
-http://viki4k.site:8080/play/ev4vHxKyQ5qgeQ34TKlIML-L-d-oNc8NzsGPw3obWVA/ts
-#EXTINF:-1 xui-id="8049" tvg-id="univision23kuvn.us" tvg-name="Univision Dallas" tvg-logo="http://visi4k.site:8080/images/b2ec57cd41ee95d7bc715a07c83e877d.png" group-title="Novelas",Univision
-http://viki4k.site:8080/play/ev4vHxKyQ5qgeQ34TKlIMMH3Sta0_QnZHYmRDU5yJiBklZsP9a8Hby4ek85SVsLi/ts
-#EXTINF:-1 xui-id="725" tvg-id="univision34kmex.us" tvg-name="Univision Los Angeles" tvg-logo="http://visi4k.site:8080/images/56eae1668ac79a8944b835d3c14fbeb6.png" group-title="Novelas" Univision
-http://viki4k.site:8080/play/ev4vHxKyQ5qgeQ34TKlIMGbc0OAnZiKhvKdt4S_1GTw/ts
-#EXTINF:-1 xui-id="729" tvg-id="" tvg-name="Univision Miami" tvg-logo="http://visi4k.site:8080/images/8a5a486916e58141166aed4400efda38.png" group-title="Novelas" Univision
-http://viki4k.site:8080/play/ev4vHxKyQ5qgeQ34TKlIMJMi6KWXmSOXio98zmESGdM/ts
-#EXTINF:-1 xui-id="730" tvg-id="univision41wxtv.us" tvg-name="Univision New York" tvg-logo="http://visi4k.site:8080/images/NHF8eDk4WLgRka8MP-k5Zv6LkcyyvCq37i1rIMYWtZI.png" group-title="Novelas" Univision
-http://viki4k.site:8080/play/ev4vHxKyQ5qgeQ34TKlIMKWkWqRp8Q8f9VrFv0_wLfU/ts
-#EXTINF:-1 xui-id="86794" tvg-id="" tvg-name="Telemundo" tvg-logo="http://visi4k.site:8080/images/39de2ce5d193340ab457fc5cb15baf0a.jpg" group-title="Novelas" Telemundo
-http://viki4k.site:8080/play/ev4vHxKyQ5qgeQ34TKlIMPa-Q3YPy81qVwDNl9iFApb9BmYZx2i80mp7dvU1vIv9/ts
-#EXTINF:-1 xui-id="1031" tvg-id="univisiontlnovelas.us" tvg-name="TLNovelas Univision HD" tvg-logo="http://visi4k.site:8080/images/0Vp4BL4Qahy7r7Pttx-uKGtNCnY6SC4r1LbYQxpuLUyoDD25eq2EFDwMa6GJ58ulMITMQNqhcor6oKeQKQ3WBs-QUfk17dApDylsWRMVJn-Tf60FUq6lGAiJM6bOwf5UDcNkoflbsfLaCo9RsKl5NFylUQ7jtUhZSBUqOIMLkiU.png" group-title="Novelas", TL Novelas
-http://viki4k.site:8080/play/ev4vHxKyQ5qgeQ34TKlIMIgA7WU6cGFO4q-c4GCFmrJxzqzZl4gmdVBbndgVnWAg/ts
 #EXTINF:-1 tvg-id="5dcddfbdb7cf0e0009ae09ea" tvg-name="Viajes" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" group-title="Entretenimiento",Viajes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5dcde0657444a40009cd2422" tvg-name="Cocina" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" group-title="Entretenimiento",Cocina
