@@ -546,3 +546,5 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-6018913ea151
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-6041643175c115002dc51259.m3u8?includeAllStreams=1&X-Plex-Token=BoDEm3T8NZiht-e2LeNZ
 #EXTINF:-1 tvg-id="6047fd723b5bd00007de7092" tvg-name="Dragon Ball Super" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="Anime", Dragon Ball Super
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/191_.m3u8?token=dYFPLD6r0agb_x7qL2Ji8g&expires=1659633754&ip=190.113.110.3
+#EXTINF:-1 tvg-id="6047fd723b5bd00007de7092" tvg-name="Dragon Ball Z" tvg-logo="https://i.pinimg.com/originals/60/a9/61/60a96199afa8469b7c3c46810ed86816.png" group-title="Anime", Dragon Ball Z
+https://vsd97.mycdn.me/hls/2640805956167.m3u8/sig/I5OnEOd_Nms/expires/1659706000926/srcIp/190.113.110.3/clientType/0/srcAg/CHROME_ANDROID/mid/5673784450631/video.m3u8?p
