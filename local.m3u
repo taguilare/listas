@@ -58,8 +58,6 @@ https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
 https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1106" tvg-name="ACS Network TV" tvg-logo="https://i2.paste.pics/f4e6f06a328814e84dd4da2c89843129.png" group-title="Peliculas",ACS Network TV
 https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="891" tvg-name="Viwix TV" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" group-title="Peliculas",Viwix TV
-https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1205" tvg-name="Viwix TV Terror" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" group-title="Peliculas", Viwix TV Terror
 https://cloudvideo.servers10.com:8081/8206/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1206" tvg-name="Viwix TV Series" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" group-title="Peliculas", Viwix TV Series
@@ -556,7 +554,5 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-6018913fa151
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-6018913ea15130002b284193.m3u8?includeAllStreams=1&X-Plex-Token=BoDEm3T8NZiht-e2LeNZ
 #EXTINF:-1 tvg-id="6047fd723b5bd00007de7092" tvg-name="TG Espanol" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-junior-us.png" group-title="Infantil", TG Espanol
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-6041643175c115002dc51259.m3u8?includeAllStreams=1&X-Plex-Token=BoDEm3T8NZiht-e2LeNZ
-#EXTINF:-1 tvg-id="6047fd723b5bd00007de7092" tvg-name="Dragon Ball Super" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="Anime", Dragon Ball Super
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/191_.m3u8?token=dYFPLD6r0agb_x7qL2Ji8g&expires=1659633754&ip=190.113.110.3
 #EXTINF:-1 tvg-id="6047fd723b5bd00007de7092" tvg-name="Dragon Ball Z" tvg-logo="https://i.pinimg.com/originals/60/a9/61/60a96199afa8469b7c3c46810ed86816.png" group-title="Anime", Dragon Ball Z
 https://vsd97.mycdn.me/hls/2640805956167.m3u8/sig/I5OnEOd_Nms/expires/1659706000926/srcIp/190.113.110.3/clientType/0/srcAg/CHROME_ANDROID/mid/5673784450631/video.m3u8?p
