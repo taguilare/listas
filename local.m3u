@@ -546,3 +546,9 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-6018913fa151
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-6018913ea15130002b284193.m3u8?includeAllStreams=1&X-Plex-Token=BoDEm3T8NZiht-e2LeNZ
 #EXTINF:-1 tvg-id="6047fd723b5bd00007de7092" tvg-name="TG Espanol" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-junior-us.png" group-title="Infantil", TG Espanol
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-6041643175c115002dc51259.m3u8?includeAllStreams=1&X-Plex-Token=BoDEm3T8NZiht-e2LeNZ
+#EXTINF:-1 tvg-id="48" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/640px-2016_Discovery_Kids_logo.svg.png" group-title="Infantil",Discovery Kids
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/117_.m3u8?token=Qy8vwvw1_1haqxTDTfyHvw&expires=1659605776&ip=190.113.110.3
+#EXTINF:-1 tvg-id="48" tvg-name="Disney JR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Infantil",Disney JR
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/109_.m3u8?token=6SRhIqCWhQucSIx5JfelzA&expires=1659606014&ip=190.113.110.3
+#EXTINF:-1 tvg-id="48" tvg-name="Star Channel" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="Entretenimiento",Star Channel
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/42_.m3u8?token=A47AeMGBkCpcbcs2oeZgyw&expires=1659606210&ip=190.113.110.3
