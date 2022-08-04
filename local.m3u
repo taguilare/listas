@@ -544,3 +544,5 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-6018913fa151
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-6018913ea15130002b284193.m3u8?includeAllStreams=1&X-Plex-Token=BoDEm3T8NZiht-e2LeNZ
 #EXTINF:-1 tvg-id="6047fd723b5bd00007de7092" tvg-name="TG Espanol" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-junior-us.png" group-title="Infantil", TG Espanol
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-6041643175c115002dc51259.m3u8?includeAllStreams=1&X-Plex-Token=BoDEm3T8NZiht-e2LeNZ
+#EXTINF:-1 tvg-id="6047fd723b5bd00007de7092" tvg-name="Dragon Ball Super" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="Anime", Dragon Ball Super
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/191_.m3u8
