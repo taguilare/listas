@@ -69,8 +69,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 https://tls-cl.cdnz.cl/planetatv2/ngrp:live_all//playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="472" tvg-name="Mi TV Television Clasica" tvg-logo="https://i2.paste.pics/d2b09f38e32fa6367db57dba0a4d17f2.png" group-title="Peliculas",Mi TV Television Clasica
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="480" tvg-name="EvaStream" tvg-logo="https://i2.paste.pics/20f4f7278dc7ab118f657d93da43474d.png" group-title="Peliculas",EvaStream
-https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1074" tvg-name="Eva Retro" tvg-logo="https://i2.paste.pics/1fac7deeb4ca257162cde40abd006d9d.png" group-title="Peliculas",Eva Retro
 https://stmv2.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="208" tvg-name="CINE.AR" tvg-logo="https://lh3.googleusercontent.com/-Y_ezb_qUTw4/YFs6qLiovmI/AAAAAAABA3E/qQKwFSEuiUYZUscGD9oqKCe6XqB_u48qQCK8BGAsYHg/s512/2021-03-24.png" group-title="Peliculas",CINE.AR
@@ -99,8 +97,6 @@ http://magmas5.com:8000/live/malotv/gratis/138187.m3u8
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/392.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Distrito TV | Espana" tvg-logo="http://distritotv.es/wp-content/uploads/2018/04/ElDistrito_Logo_PNG.jpg" group-title="Peliculas",Distrito TV | Espana
 https://cdn01.yowi.tv/KQRSDA7GDB/live-1200.m3u8
-#EXTINF:-1 tvg-id="195149" tvg-name="MOOVIMEX" tvg-logo="" group-title="Peliculas",MOOVIMEX
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="195146" tvg-name="My Time MX" tvg-logo="" group-title="Peliculas",My Time MX
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten Comedy Movies | Espana" tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="Peliculas",Rakuten Comedy Movies | Espana
@@ -157,10 +153,6 @@ https://live.obslivestream.com/viaaltomayomux/index.m3u8
 https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="Multimedios Mexico" tvg-logo="https://i.imgur.com/M3RpKt3.png" group-title="Entretenimiento",Multimedios Mexico
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="Multimedios Mexico 2" tvg-logo="https://i.imgur.com/M3RpKt3.png" group-title="Entretenimiento",Multimedios Mexico 2
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="MultimediosPlus" tvg-logo="https://i.imgur.com/M3RpKt3.png" group-title="Entretenimiento",MultimediosPlus
-https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AGU: Presumiendo Mexico" tvg-logo="http://www.presumiendomexico.com.mx/wp-content/uploads/2017/11/pmtv_logoprincipal.png" group-title="Entretenimiento",AGU: Presumiendo Mexico
 http://streamingcws10.com:1935/telemetrika/videotelemetrika/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AGU: Canal 26" tvg-logo="https://i.imgur.com/ePP32Al.png" group-title="Entretenimiento",AGU: Canal 26
@@ -229,12 +221,6 @@ https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1 tvg-id="Multicanal Ecuador" tvg-name="Multicanal Ecuador" tvg-logo="https://4.bp.blogspot.com/-HAV870gdo80/XoE1dXsyK6I/AAAAAAAAAx4/f5LT4C9r9KIHLnOzFzUPLYlq_-ZwWhghgCLcBGAsYHQ/s1600/multicanal.png" group-title="Entretenimiento",Multicanal Ecuador
 https://multicanal.streamseguro.com/hls/streaming.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Retro Play" tvg-logo="https://multizonastv.com/wp-content/uploads/2021/09/logo-1.png" group-title="Entretenimiento",Retro Play
-https://cloudvideo.servers10.com:8081/8214/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Programacion Local" tvg-logo="http://www.retroplaytv.club/img/logo-radio.png" group-title="Entretenimiento",Programacion Local
-https://v4.tustreaming.cl/retroplaytv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV" tvg-logo="https://retroplustv.com/images/logo.png" group-title="Entretenimiento",Retro Plus TV
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Solo Stand Up" tvg-logo="https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30TqJ-CdrI/AAAAAAAA6M4/WUtqB3d4eiEp7oHE44DkOhh5V0NNTDMSACK8BGAsYHg/s0/2020-10-06.png" group-title="Entretenimiento",Solo Stand Up
 https://paneltv.online:1936/8116/8116/chunklist_w1465366289.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="https://i.postimg.cc/sXvS8DZc/telemundoaldia.jpg" group-title="Entretenimiento",Telemundo
@@ -299,8 +285,6 @@ https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="46" tvg-name="Chavo TV" tvg-logo="https://i2.paste.pics/363bdf769b4b91716d6ebb6db72d1d4b.png" group-title="Infantil",Chavo TV
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="El Chavo TV 2" tvg-logo="https://i.imgur.com/mMF8pX1.png" group-title="Infantil",El Chavo TV 2
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="El Chapulin" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/760449bd-621b-4777-b7bc-9fde4d1f27cb-profile_image-70x70.png" group-title="Infantil",El Chapulin
 http://magmas5.com:8000/live/malotv/gratis/129323.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Alf" tvg-logo="http://x.playerlatino.live/alf.png" group-title="Infantil",Alf
