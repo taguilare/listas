@@ -229,8 +229,6 @@ https://live-content.xumo.com/2592/content/XM06GWT4TVFWAW/22861908/3.m3u8
 http://magmas5.com:8000/live/malotv/gratis/131156.m3u8
 #EXTINF:-1 tvg-id="Bit Me" tvg-name="Bit Me" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png" group-title="Infantil",Bit Me
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/97.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GX TV" tvg-logo="https://i.imgur.com/bBkw36s.png" group-title="Infantil",GX TV
-https://infantil-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="Zaz TV" tvg-name="Zaz TV" tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="Infantil",Zaz TV
 https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/ZAZ/index-zaz/2.m3u8
 #EXTINF:-1 tvg-id="Gogoplay TV" tvg-name="Gogoplay TV" tvg-logo="https://i.imgur.com/tCwRSRr.png" group-title="Infantil",Gogoplay TV
@@ -243,9 +241,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?Playlis
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boing Espana" tvg-logo="https://imagenes.gatotv.com/logos/canales/boing_espana-mediano.png" group-title="Infantil",Boing Espana
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/48675
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoonito.png" group-title="Infantil",Cartoonito Mexico
-http://magmas5.com:8000/live/malotv/gratis/132321.m3u8
-#EXTINF:-1 tvg-id="Clan HD" tvg-name="Clan HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/clan_tve.png" group-title="Infantil",Clan HD
+#EXTINF:-1 tvg-id="Clan HD" tvg-name="Clan HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/clan_tve.png" group-title="Entretenimiento",Clan HD
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/48693
 #EXTINF:-1 tvg-id="" tvg-name="Infantil TV" tvg-logo="https://gebelutv.files.wordpress.com/2014/11/unnamed.png" group-title="Infantil",Infantil TV
 https://videostreaming.cloudserverlatam.com/kids/kids/chunklist_w780109170.m3u8
