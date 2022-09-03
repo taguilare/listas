@@ -113,8 +113,6 @@ https://srv.panelcast.net/crtv/crtv/playlist.m3u8?PlaylistM3UCL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports.png" group-title="Deportes",Claro Sports
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_premium_argentina.png" group-title="Deportes",Fox Sports Premium
-http://magmas5.com:8000/live/malotv/gratis/146541.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RealMadridTV.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/real_madrid_tv.png" group-title="Deportes",RealMadridTV.es
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Teletrak" tvg-logo="https://i.imgur.com/iHhc7PK.png" group-title="Deportes",Teletrak
