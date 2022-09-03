@@ -15,8 +15,6 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?PlaylistM3
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1060" tvg-name="Repretel Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Repretel_11_logo.png" group-title="Nacionales",Repretel Canal 11
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Canal 13 SINART" tvg-logo="https://costaricamedios.cr/wp-content/uploads/2020/10/LOGO-SINART-01.png" group-title="Nacionales",Canal 13 SINART
-https://www.dailymotion.com/cdn/live/video/x7vh8g3.m3u8?sec=CuMr-u1XeSxJYScbAhGkYsWbQMKmqBFhNq40r3N0lG68ptXetvWce14XJNZeIKd7F20B23gx8lh4rflAaZaYdw&dmTs=395511&dmV1st=30D9AFB00A6A929E63206319C3D75000
 #EXTINF:-1 tvg-id="1" tvg-name="Canal 15 UCR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_con_sombra.png/1200px-Logo_con_sombra.png" group-title="Nacionales",Canal 15 UCR
 http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1062" tvg-name="Canal VM Latino" tvg-logo="https://i2.paste.pics/fbefcbca47462eb80eedbeaf95126474.png" group-title="Nacionales",Canal VM Latino
@@ -27,8 +25,6 @@ https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="37" tvg-name="Canal 38" tvg-logo="https://lh3.googleusercontent.com/-JsoqJma_UaI/Xz5177aFy8I/AAAAAAAA4r8/2mN9M0HRshQfHf1Y1bH_ul9q22z36M41gCK8BGAsYHg/s0/2020-08-20.png" group-title="Nacionales",Canal 38
 https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Extra TV 42" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Extra_TV_42.svg/2560px-Logo_Extra_TV_42.svg.png" group-title="Nacionales",Extra TV 42
-https://www.dailymotion.com/cdn/live/video/x83sd3v.m3u8?sec=sCd2lo8JYZ-qGV4vJIymNojHsAo7p3Vfc9f8XZCmn1WJuilc-v68EkIFDBelgaYNN1P-X2ZgAlpIOHvglMnxYA&dmTs=395511&dmV1st=30D9AFB00A6A929E63206319C3D75000
 #EXTINF:-1 tvg-id="162" tvg-name="Extrema TV" tvg-logo="https://lh3.googleusercontent.com/-YvhgR9bWwEk/XqeKc33JN4I/AAAAAAAAySs/RsIopL6SbT42YZrOwRYaWYx0EztbDMSkQCK8BGAsYHg/s0/2020-04-27.png" group-title="Nacionales",Extrema TV
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1053" tvg-name="Colosal TV" tvg-logo="https://i2.paste.pics/ef00f6c7d85171624dff85e2c38fc975.png" group-title="Nacionales",Colosal TV
@@ -71,8 +67,6 @@ https://cloudvideo.servers10.com:8081/8128/index.m3u8?PlaylistM3UCL
 https://cloudvideo.servers10.com:8081/8212/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV " tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="Peliculas",Retro Plus TV 
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Planeta TV Movies" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="Peliculas",Planeta TV Movies
-https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:-1 tvg-id="472" tvg-name="Mi TV Television Clasica" tvg-logo="https://i2.paste.pics/d2b09f38e32fa6367db57dba0a4d17f2.png" group-title="Peliculas",Mi TV Television Clasica
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1074" tvg-name="Eva Retro" tvg-logo="https://i2.paste.pics/1fac7deeb4ca257162cde40abd006d9d.png" group-title="Peliculas",Eva Retro
@@ -129,8 +123,6 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 http://magmas5.com:8000/live/malotv/gratis/146603.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zona TUDN | Mexico" tvg-logo="https://st1.uvnimg.com/2a/55/e04c466c4eab9ef364eb2351c8c8/zona-tudn-vix.png" group-title="Deportes",Zona TUDN | Mexico
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_(2015).svg/1200px-AXN_logo_(2015).svg.png" group-title="Entretenimiento",AXN
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/78_.m3u8?token=QfuzsHqLfjHJJlK-ViLM9w&expires=1662232675&ip=190.113.110.115
 #EXTINF:-1 tvg-id="497" tvg-name="RT Espanol" tvg-logo="https://i2.paste.pics/81e9b68acb5941a7f995be421041deeb.png" group-title="Entretenimiento",RT Espanol
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1054" tvg-name="T13" tvg-logo="https://i2.paste.pics/38adedd4130272be03ef804c5eaf067e.png" group-title="Entretenimiento",T13
