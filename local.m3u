@@ -7,8 +7,6 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
 #EXTINF:-1 tvg-id="1059" tvg-name="Repretel Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Canal6CR.png/640px-Canal6CR.png" group-title="Nacionales",Repretel Canal 6
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Teletica Canal 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="Nacionales",Teletica Canal 7
-https://stream-03.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO55iHywdw2eWLEnz0OykG8yQsYDb7jONi4DialoSukcxH)/dm/3/x29e3wg/d/live-2.m3u8#cell=lnyc
 #EXTINF:-1 tvg-id="1043" tvg-name="Multimedios Canal 8" tvg-logo="https://i2.paste.pics/060625379c33c11acc84be7cdc18b4eb.png" group-title="Nacionales",Multimedios Canal 8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1052" tvg-name="TV Sur Canal 9" tvg-logo="https://i2.paste.pics/e71dbd173c7d1e13f92e019c7a9ac89f.png" group-title="Nacionales",TV Sur Canal 9
@@ -241,8 +239,6 @@ http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Super TOON" tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="Infantil",Super TOON
 https://kedoo-supertoonstv-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="https://i.imgur.com/lND6DKt.png" group-title="Infantil",Tooncast
-http://190.83.119.67:8000/play/a0s3/index.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1015" tvg-name="PlanetaTV Kids" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="Infantil",PlanetaTV Kids
