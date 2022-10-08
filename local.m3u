@@ -3,6 +3,8 @@
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 #EXTINF:-1 tvg-id="1059" tvg-name="Canal 2" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-2-Costa-Rica-en-vivo-Online.png" group-title="Nacionales",Canal 2
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TicaVision Canal 3" tvg-logo="https://i2.paste.pics/b89953d1d7327bb67304a18eb0bc354a.png" group-title="Nacionales",TicaVision Canal 3
+https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-id="1059" tvg-name="Repretel Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/1200px-Repretel_4_logo.png" group-title="Nacionales",Repretel Canal 4
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
 #EXTINF:-1 tvg-id="1059" tvg-name="Repretel Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Canal6CR.png/640px-Canal6CR.png" group-title="Nacionales",Repretel Canal 6
@@ -13,26 +15,28 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?PlaylistM3
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1060" tvg-name="Repretel Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Repretel_11_logo.png" group-title="Nacionales",Repretel Canal 11
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1051" tvg-name="Tv Sur Canal 14" tvg-logo="https://i2.paste.pics/55978deeb5bf9d20b0c459cff3635225.png" group-title="Nacionales",Tv Sur Canal 14
+https://5bf8041cb3fed.streamlock.net:443/TVSURCANAL14/TVSURCANAL14/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1" tvg-name="Canal 15 UCR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_con_sombra.png/1200px-Logo_con_sombra.png" group-title="Nacionales",Canal 15 UCR
 http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="TicaVision" tvg-logo="https://i2.paste.pics/b89953d1d7327bb67304a18eb0bc354a.png" group-title="Nacionales",TicaVision
-https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 tvg-id="1050" tvg-name="TVN 14" tvg-logo="https://i2.paste.pics/7a71c98ae29da64846c3690f0417b341.png" group-title="Nacionales",TVN 14
+https://5fd8fec96951d.streamlock.net:8443/TVN/CH14.stream_720p/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1062" tvg-name="Canal VM Latino" tvg-logo="https://i2.paste.pics/fbefcbca47462eb80eedbeaf95126474.png" group-title="Nacionales",Canal VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="TV Plus" tvg-logo="https://i2.paste.pics/dd383084a4c255e8445fb60f9001b9e6.png" group-title="Nacionales",TV Plus
-https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/playlist.m3u8
 #EXTINF:-1 tvg-id="1063" tvg-name="Vintage Music" tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png" group-title="Nacionales",Vintage Music
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1064" tvg-name="Soy Plancha TV" tvg-logo="https://i2.paste.pics/ade26f32ba4868798ef1593a34e57ef7.png" group-title="Nacionales",Soy Plancha TV
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="37" tvg-name="Canal 38" tvg-logo="https://lh3.googleusercontent.com/-JsoqJma_UaI/Xz5177aFy8I/AAAAAAAA4r8/2mN9M0HRshQfHf1Y1bH_ul9q22z36M41gCK8BGAsYHg/s0/2020-08-20.png" group-title="Nacionales",Canal 38
+https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="TV Plus" tvg-logo="https://i2.paste.pics/dd383084a4c255e8445fb60f9001b9e6.png" group-title="Nacionales",TV Plus
+https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cartago Medios" tvg-logo="https://i2.paste.pics/e82bca2c48209fe7ff1a9a559f36689f.png" group-title="Nacionales",Cartago Medios
 https://tvdatta.com:3384/live/cartagomedioslive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Oldies Hits TV" tvg-logo="https://i2.paste.pics/e63c9721b2261a3213ea1a4e69776d0f.png" group-title="Nacionales",Oldies Hits TV
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Urbano TV" tvg-logo="https://i2.paste.pics/0c73fe6bc691b4aa4d1ac9cc3f93e500.png" group-title="Nacionales",Urbano TV
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
-#EXTINF:-1 tvg-id="1064" tvg-name="Soy Plancha TV" tvg-logo="https://i2.paste.pics/ade26f32ba4868798ef1593a34e57ef7.png" group-title="Nacionales",Soy Plancha TV
-https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="37" tvg-name="Canal 38" tvg-logo="https://lh3.googleusercontent.com/-JsoqJma_UaI/Xz5177aFy8I/AAAAAAAA4r8/2mN9M0HRshQfHf1Y1bH_ul9q22z36M41gCK8BGAsYHg/s0/2020-08-20.png" group-title="Nacionales",Canal 38
-https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="162" tvg-name="Extrema TV" tvg-logo="https://lh3.googleusercontent.com/-YvhgR9bWwEk/XqeKc33JN4I/AAAAAAAAySs/RsIopL6SbT42YZrOwRYaWYx0EztbDMSkQCK8BGAsYHg/s0/2020-04-27.png" group-title="Nacionales",Extrema TV
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1053" tvg-name="Colosal TV" tvg-logo="https://i2.paste.pics/ef00f6c7d85171624dff85e2c38fc975.png" group-title="Nacionales",Colosal TV
@@ -45,10 +49,6 @@ https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8?PlaylistM3UCL
 https://59ef525c24caa.streamlock.net/telesur/telesur/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1049" tvg-name="Teleuno" tvg-logo="https://i2.paste.pics/e1e0ae47b803ab15e41266a4d66ca297.png" group-title="Nacionales",Teleuno
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1051" tvg-name="Tv Sur Canal 14" tvg-logo="https://i2.paste.pics/55978deeb5bf9d20b0c459cff3635225.png" group-title="Nacionales",Tv Sur Canal 14
-https://5bf8041cb3fed.streamlock.net:443/TVSURCANAL14/TVSURCANAL14/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1050" tvg-name="TVN 14" tvg-logo="https://i2.paste.pics/7a71c98ae29da64846c3690f0417b341.png" group-title="Nacionales",TVN 14
-https://5fd8fec96951d.streamlock.net:8443/TVN/CH14.stream_720p/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="22" tvg-name="Video Tour Channel" tvg-logo="https://lh3.googleusercontent.com/-QUz4UviUPiE/X3YnewzIm7I/AAAAAAAA6Ho/xpUvyAvSX6Qj0Lvl8qhuZnDdz9VPZWy4QCK8BGAsYHg/s0/2020-10-01.png" group-title="Nacionales",Video Tour Channel
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="477" tvg-name="Telered" tvg-logo="https://i2.paste.pics/5b687eec9057d2c6bf08ae203f6643ef.png" group-title="Nacionales",Telered
@@ -207,8 +207,6 @@ https://kedoo-supertoonstv-2-es.samsung.wurl.tv/3000.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="PlanetaTV Kids" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="Infantil",PlanetaTV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio FM Kitsch" tvg-logo="https://www.m3u.cl/logo/1261_Radio_FM_Kitsch.png" group-title="Infantil",Radio FM Kitsch
-https://mediacp2.mistreamingtv.uno:19360/fmkitschtv/fmkitschtv.m3u8
 #EXTINF:-1 tvg-id="1053" tvg-name="Loco Motion" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="Infantil",Loco Motion
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" group-title="Infantil",Anime Zone TV
@@ -219,6 +217,10 @@ https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTINF:-1 tvg-id="947" tvg-name="EnerGeek 3" tvg-logo="https://i2.paste.pics/2bf75a344d4cf7c2530247f14e101d84.png" group-title="Infantil",EnerGeek 3
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EnerGeek 4" tvg-logo="https://i2.paste.pics/256571eecddd2c7e0156fc340b900787.png" group-title="Infantil",EnerGeek 4
+https://live.tubyte.xyz/LiveApp/streams/531839509402196773557900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EnerGeek Radio" tvg-logo="https://i2.paste.pics/cb6d3df7e55e32e5c786962a1fa742cd.png" group-title="Infantil",EnerGeek Radio
+https://live.tubyte.xyz/LiveApp/streams/839593913716085646044793.m3u8
 #EXTINF:-1 tvg-id="1081" tvg-name="Aniplus" tvg-logo="https://i2.paste.pics/7ad3396e3452a6091357ca64d5cb8951.png" group-title="Infantil",Aniplus
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="46" tvg-name="Chavo TV" tvg-logo="https://i2.paste.pics/363bdf769b4b91716d6ebb6db72d1d4b.png" group-title="Infantil",Chavo TV
@@ -261,6 +263,8 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Estrella News | M?xico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/estrella_tv.png" group-title="Noticias",Estrella News | M?xico
 https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/768x432_1425600/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio FM Kitsch" tvg-logo="https://www.m3u.cl/logo/1261_Radio_FM_Kitsch.png" group-title="Musica",Radio FM Kitsch
+https://mediacp2.mistreamingtv.uno:19360/fmkitschtv/fmkitschtv.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="Rewind Radio y TV" tvg-logo="https://i2.paste.pics/731c365cab15afcdd35861bb1485c6e4.png" group-title="Musica",Rewind Radio y TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="RCKTV" tvg-logo="https://i2.paste.pics/b4e09c1315da8b38ccb2e308519cbda1.png" group-title="Musica",RCKTV
