@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1059" tvg-name="Prueba" tvg-logo="http:www.m3u.cl/logo/1233_Canal_1.png" group-title="Peliculas",Prueba
-https://delivery225.akamai-cdn-content.com/hls2/01/09715/2vjknt9qmxrc_,l,n,.urlset/master.m3u8?t=MIKU1HQEtHVI8oLKSzpUPJeJEQYO_ZnENYjPH1iNbrY&s=1669251210&e=10800&f=48575518&srv=sto089&client=190.113.110.113
+https://delivery225.akamai-cdn-content.com/hls2/01/09715/2vjknt9qmxrc_l/index-a1.m3u8?t=HlrLctCi_KEL0d3iGLCR3ObBSF9x0gU7QJC80AUnhc8&s=1669251410&e=10800&f=48575518&srv=sto089&client=190.113.110.113
 #EXTINF:-1 tvg-id="1059" tvg-name="Canal 1" tvg-logo="http:www.m3u.cl/logo/1233_Canal_1.png" group-title="Nacionales",Canal 1
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 #EXTINF:-1 tvg-id="1059" tvg-name="Canal 2" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-2-Costa-Rica-en-vivo-Online.png" group-title="Nacionales",Canal 2
