@@ -11,6 +11,8 @@ https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
 #EXTINF:-1 tvg-id="1059" tvg-name="Repretel Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Canal6CR.png/640px-Canal6CR.png" group-title="Nacionales",Repretel Canal 6
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1059" tvg-name="Teletica Canal 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/1200px-Teletica_Logo.png" group-title="Nacionales",Teletica Canal 7
+https://www.dailymotion.com/cdn/live/video/x29e3wg.m3u8?sec=RRaQWohHhS0MzAc4pW5WUFNf2A3o03tsZXH90sW2L5-2OOnVCWu_ggHkHrDCS0szJYTyJfgl5dnFmCQO-d5rBA&dmTs=395511&dmV1st=30D9AFB00A6A929E63206319C3D75000
 #EXTINF:-1 tvg-id="1043" tvg-name="Multimedios Canal 8" tvg-logo="https://i2.paste.pics/060625379c33c11acc84be7cdc18b4eb.png" group-title="Nacionales",Multimedios Canal 8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1052" tvg-name="TV Sur Canal 9" tvg-logo="https://i2.paste.pics/e71dbd173c7d1e13f92e019c7a9ac89f.png" group-title="Nacionales",TV Sur Canal 9
