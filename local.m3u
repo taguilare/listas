@@ -3,6 +3,8 @@
 https://streannlivepuravida.cachefly.net/Protected/sp=1;dirmatch=true/2fdb4e1b7838411525f446760bf864e29db7fa89ccf48bbed48eda3a04a19645/puravida4/puravida4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Monumental" tvg-logo="https://d1lofqbqbj927c.cloudfront.net/monumental/2021/09/cropped-LOGO-MONUMENTAL-FONDO-BLANCO.png" group-title="Radio", Radio Monumental
 https://dq36dvgzsdppg.cloudfront.net/monumental.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Reloj" tvg-logo="https://radiocostarica.org/sites/default/files/radio/logos/logo-momentos-reloj.png" group-title="Radio", Radio Reloj
+https://d1v9ov91qzrvmy.cloudfront.net/momentosreloj.m3u8
 #EXTINF:-1 tvg-id="1059" tvg-name="Canal 1" tvg-logo="http:www.m3u.cl/logo/1233_Canal_1.png" group-title="Nacionales",Canal 1
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 #EXTINF:-1 tvg-id="1059" tvg-name="Canal 2" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-2-Costa-Rica-en-vivo-Online.png" group-title="Nacionales",Canal 2
