@@ -83,17 +83,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten Action Movies | Espana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="Peliculas",Rakuten Action Movies | Espana
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="375" tvg-name="Valparaiso Sporting" tvg-logo="https://lh3.googleusercontent.com/-HLkq9KDNolI/XxzLq65I2KI/AAAAAAAA3ZI/Vx5DVILxWmoGc5_PJ01NSoc2wVODn-FqACK8BGAsYHg/s0/2020-07-25.png" group-title="Deportes",Valparaiso Sporting
-https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="374" tvg-name="TV Turf Movil" tvg-logo="https://lh3.googleusercontent.com/-4gdqGn04Bng/Xb9WF2WzB6I/AAAAAAAAr7A/tbeDeaQTuuMuHOka_gYv4trQHwAyzqKPQCK8BGAsYHg/s0/2019-11-03.png" group-title="Deportes",TV Turf Movil
-https://janus.tvturf.cl/playlist/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports.png" group-title="Deportes",Claro Sports
-https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RealMadridTV.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/real_madrid_tv.png" group-title="Deportes",RealMadridTV.es
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Teletrak" tvg-logo="https://i.imgur.com/iHhc7PK.png" group-title="Deportes",Teletrak
-http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zona TUDN | Mexico" tvg-logo="https://st1.uvnimg.com/2a/55/e04c466c4eab9ef364eb2351c8c8/zona-tudn-vix.png" group-title="Deportes",Zona TUDN | Mexico
+#EXTINF:-1 tvg-id="" tvg-name="Zona TUDN | Mexico" tvg-logo="https://st1.uvnimg.com/2a/55/e04c466c4eab9ef364eb2351c8c8/zona-tudn-vix.png" group-title="Entretenimiento",Zona TUDN | Mexico
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="497" tvg-name="RT Espanol" tvg-logo="https://i2.paste.pics/81e9b68acb5941a7f995be421041deeb.png" group-title="Entretenimiento",RT Espanol
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?PlaylistM3UCL
