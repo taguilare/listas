@@ -219,7 +219,7 @@ https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1300" tvg-name="Moni TV" tvg-logo="https://i.paste.pics/d31abf80e663b92c77c7f44cb2b65147.png" group-title="Animacion",Moni TV
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Kanade TV" tvg-logo="https://kanade.wowlymedia.com/_next/static/media/siteLogo.323b722d.png" group-title="Animacion",Kanade TV
+#EXTINF:-1 tvg-id="" tvg-name="Kanade TV" tvg-logo="https://wowlymedia.com/icons/kanadeicon.svg" group-title="Animacion",Kanade TV
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 #EXTINF:-1 tvg-id="1053" tvg-name="Loco Motion" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="Animacion",Loco Motion
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
