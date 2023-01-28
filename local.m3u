@@ -583,3 +583,6 @@ https://stream.arcast.live/ahora/ahora/playlist.m3u8
 http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10TVRioNegro.ar" tvg-name="Canal 10 Rio Negro" tvg-logo="https://i.imgur.com/zpJdUVC.png" group-title="Canales nuevos",Canal 10 Rio Negro
 https://panel.dattalive.com/8204/8204/playlist.m3u8
+#EXTINF:-1 tvg-id="CaracolaTV.cl" tvg-logo="https://i.imgur.com/QGvfqug.png" group-title="Canales nuevos",Caracola TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+
