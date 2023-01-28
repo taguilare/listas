@@ -225,11 +225,11 @@ https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" group-title="Animacion",Anime Zone TV
 http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek" tvg-logo="https://i2.paste.pics/6e12320dbdc58fc4ae26350c244f72af.png" group-title="Animacion",EnerGeek
+#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a835be8b-f399-4124-be2a-d44eb9039e91-profile_image-300x300.png" group-title="Animacion",EnerGeek Retro
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
-#EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek 2" tvg-logo="https://i2.paste.pics/ec9a99d22c4dd4a38c9af9c016019d88.png" group-title="Animacion",EnerGeek 2
+#EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek 2" tvg-logo="https://stream.wifispeed.cl/uploads/directorylists/energeek2.png" group-title="Animacion",EnerGeek FanPOP
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek 3" tvg-logo="https://i2.paste.pics/2bf75a344d4cf7c2530247f14e101d84.png" group-title="Animacion",EnerGeek 3
+#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek 3" tvg-logo="https://i.paste.pics/415f623047f69e0cdc5c06b09d149de8.png" group-title="Animacion",EnerGeek Animate
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 #EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title="Animacion",Los Simpson
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
