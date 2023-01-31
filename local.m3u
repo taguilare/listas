@@ -909,6 +909,18 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf07
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="600728952b1776000776526d" tvg-name="Paramount presenta" tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" group-title="Pluto TV",Paramount presenta
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="03" tvg-name="Gogoplay" tvg-logo="" group-title="Entretenimiento",Gogoplay
+https://live-eu-3.livepush.io/live/emAeNk8mcoqhhYV/playlist.m3u8
+#EXTINF:-1 tvg-id="03" tvg-name="ACS Network" tvg-logo="" group-title="Entretenimiento",ACS Network
+https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
+#EXTINF:-1 tvg-id="03" tvg-name="Spectrum Channel" tvg-logo="" group-title="Entretenimiento",Spectrum Channel
+https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
+#EXTINF:-1 tvg-id="03" tvg-name="Unetev.cl" tvg-logo="" group-title="Entretenimiento",Unetev.cl
+https://v2.tustreaming.cl/unetev/index.m3u8 
+#EXTINF:-1 tvg-id="03" tvg-name="POP TV" tvg-logo="" group-title="Entretenimiento",POP TV
+https://v4.tustreaming.cl/poptv/index.m3u8 
+#EXTINF:-1 tvg-id="03" tvg-name="Lim TV" tvg-logo="" group-title="Entretenimiento",Lim TV
+https://live.limplay.ml/limtv.m3u8
 #EXTINF:-1 tvg-id="03" tvg-name="" tvg-logo="" group-title="Prueba",
 https://stream-linkyprojects.linky.com.co/hls/toonizaki.m3u8 Toonizaki
 #EXTINF:-1 tvg-id="03" tvg-name="" tvg-logo="" group-title="Prueba",
