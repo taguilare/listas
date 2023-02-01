@@ -909,3 +909,53 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf07
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="600728952b1776000776526d" tvg-name="Paramount presenta" tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" group-title="Pluto TV",Paramount presenta
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="03" tvg-name="Gogoplay" tvg-logo="" group-title="Prueba",Gogoplay
+https://live-eu-3.livepush.io/live/emAeNk8mcoqhhYV/playlist.m3u8
+#EXTINF:-1 tvg-id="03" tvg-name="ACS Network" tvg-logo="" group-title="Prueba",ACS Network
+https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
+#EXTINF:-1 tvg-id="03" tvg-name="Spectrum Channel" tvg-logo="" group-title="Prueba",Spectrum Channel
+https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
+#EXTINF:-1 tvg-id="03" tvg-name="Unetev.cl" tvg-logo="" group-title="Prueba",Unetev.cl
+https://v2.tustreaming.cl/unetev/index.m3u8 
+#EXTINF:-1 tvg-id="03" tvg-name="POP TV" tvg-logo="" group-title="Prueba",POP TV
+https://v4.tustreaming.cl/poptv/index.m3u8 
+#EXTINF:-1 tvg-id="03" tvg-name="Lim TV" tvg-logo="" group-title="Prueba",Lim TV
+https://live.limplay.ml/limtv.m3u8
+#EXTINF:-1 tvg-id="03" tvg-name="Toonizaki" tvg-logo="" group-title="Prueba",Toonizaki
+https://stream-linkyprojects.linky.com.co/hls/toonizaki.m3u8
+#EXTINF:-1 tvg-id="03" tvg-name="Bayres" tvg-logo="" group-title="Prueba",Bayres
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1 tvg-id="03" tvg-name="Gen TV" tvg-logo="" group-title="Prueba",GenTV
+https://inliveserver.com:1936/14056/14056/playlist.m3u8
+#EXTINF:-1 tvg-id="03" tvg-name="Sicardi TV" tvg-logo="" group-title="Prueba",Sicardi TV
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+#EXTINF:-1 tvg-id="03" tvg-name="TeleMAX" tvg-logo="" group-title="Prueba",TeleMAX 
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="03" tvg-name="El 3 de Conce" tvg-logo="" group-title="Prueba",El 3 de Conce
+https://oracle.streaminghd.cl/8016/8016/index.m3u8
+#EXTINF:-1 tvg-id="03" tvg-name="La Granja TV" tvg-logo="" group-title="Prueba",La Granja TV
+https://oracle.streaminghd.cl/8126/8126/index.m3u8
+#EXTINF:-1 tvg-id="03" tvg-name="Pichilemu TV" tvg-logo="" group-title="Prueba",Pichilemu TV  
+https://5ff3d9babae13.streamlock.net/8028/8028/index.m3u8
+#EXTINF:-1 tvg-id="03" tvg-name="Xabardi TV" tvg-logo="" group-title="Prueba",Xabardi TV
+https://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="03" tvg-name="La Red TV" tvg-logo="" group-title="Prueba",La Red TV
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/lared/livestream0/playlist.m3u8
+#EXTINF:-1 tvg-id="03" tvg-name="RetroPlay" tvg-logo="" group-title="Prueba",RetroPlay 
+https://v4.tustreaming.cl/retroplaytv/playlist.m3u8
+#EXTINF:-1 tvg-id="03" tvg-name="Super TV" tvg-logo="" group-title="Prueba",Super TV 
+https://stmv3.voxtvhd.com.br/supertv/supertv/playlist.m3u8
+#EXTINF:-1 tvg-id="03" tvg-name="UCV Televisión" tvg-logo="" group-title="Prueba",UCV Televisión
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-id="03" tvg-name="UCV Eventos" tvg-logo="" group-title="Prueba",UCV Eventos
+https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/ucvtveventos/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-id="03" tvg-name="Venevisión" tvg-logo="" group-title="Prueba",Venevisión
+https://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="03" tvg-name="Next HD" tvg-logo="" group-title="Prueba",Next HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1 tvg-id="03" tvg-name="G visión" tvg-logo="" group-title="Prueba",G visión 
+https://tls-cl.cdnz.cl/escgabrielamistral/live/playlist.m3u8
+#EXTINF:-1 tvg-id="03" tvg-name="Exprezion" tvg-logo="" group-title="Prueba",Exprezion 
+https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
+#EXTINF:-1 tvg-id="03" tvg-name="AM CANAL" tvg-logo="" group-title="Prueba",AM CANAL  
+https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
