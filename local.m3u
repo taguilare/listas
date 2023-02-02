@@ -60,11 +60,11 @@ https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="RTTV.cr" tvg-name="RTTV" tvg-logo="https://i.imgur.com/eTfsCCq.png" group-title="Nacionales",RTTV
 https://cloudvideo.servers10.com:19360/8212/8212.m3u8
 #EXTINF:-1 tvg-id="477" tvg-name="Telered" tvg-logo="https://i2.paste.pics/5b687eec9057d2c6bf08ae203f6643ef.png" group-title="Nacionales",Telered
-https://59ef525c24caa.streamlock.net/ARBtv/teleplus/playlist.m3u8?PlaylistM3UCL
+https://video20.klm99.com:3558/live/teleredlive.m3u8
 #EXTINF:-1 tvg-id="1049" tvg-name="Teleuno" tvg-logo="https://i2.paste.pics/e1e0ae47b803ab15e41266a4d66ca297.png" group-title="Nacionales",Teleuno
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="478" tvg-name="Telesistema" tvg-logo="https://i2.paste.pics/c9332e6e4a4d254c3a954e0c14d74e3a.png" group-title="Nacionales",Telesistema
-https://video20.klm99.com:3558/live/teleredlive.m3u8
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telefides" tvg-logo="http://costaricatelevision.com/sites/default/files/2022-09/telefides-costa-rica.png" group-title="Nacionales",Telefides
 https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
 #EXTINF:-1 tvg-id="TicaTVPlus.cr" tvg-name="Tica TV" tvg-logo="https://i.imgur.com/zMdY7fy.png" group-title="Nacionales",Tica TV
