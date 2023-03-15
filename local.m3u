@@ -21,8 +21,6 @@ https://5fd8fec96951d.streamlock.net:8443/TVN/CH14.stream_720p/playlist.m3u8?Pla
 http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="AnexionTV.cr" tvg-name="Anexion TV Canal 36" tvg-logo="https://i.imgur.com/7pfXF8N.png" group-title="Nacionales",Anexion TV Canal 36
 https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id="37" tvg-name="Canal 38" tvg-logo="https://lh3.googleusercontent.com/-JsoqJma_UaI/Xz5177aFy8I/AAAAAAAA4r8/2mN9M0HRshQfHf1Y1bH_ul9q22z36M41gCK8BGAsYHg/s0/2020-08-20.png" group-title="Nacionales",Canal 38
-https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1046" tvg-name="Radio 88 Stereo" tvg-logo="https://i2.paste.pics/191d7f0299ec0197d15d2e7b76ff037f.png" group-title="Nacionales",Radio 88 Stereo
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1046" tvg-name="IQ Radio TV" tvg-logo="https://www.planetaradios.com/content/radios_fm/IQ_radio_costarica_4444d.png" group-title="Nacionales",IQ Radio TV
@@ -221,12 +219,8 @@ https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTINF:-1 tvg-id="947" tvg-name="EnerGeek 3" tvg-logo="https://i.paste.pics/415f623047f69e0cdc5c06b09d149de8.png" group-title="Animacion",EnerGeek 3
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
-#EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title="Animacion",Los Simpson
-https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 #EXTINF:-1 tvg-id="21" tvg-name="Retro Music Television" tvg-logo="https://lh3.googleusercontent.com/-z4SQcFR0bIs/Xs_MlInCKMI/AAAAAAAA1QM/T2RR2owl_CYpymBiQ8lOi1ykYZVAwI6NACK8BGAsYHg/s0/2020-05-28.png" group-title="Musica",Retro Music Television
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1" tvg-name="Rewind Radio y TV" tvg-logo="https://i2.paste.pics/731c365cab15afcdd35861bb1485c6e4.png" group-title="Musica",Rewind Radio y TV
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="RCKTV" tvg-logo="https://i2.paste.pics/b4e09c1315da8b38ccb2e308519cbda1.png" group-title="Musica",RCKTV
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="13" tvg-name="Ruidos TV" tvg-logo="https://i2.paste.pics/004835d0c1a19dd14fa643dd18897d4d.png" group-title="Musica",Ruidos TV
