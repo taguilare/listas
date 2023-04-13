@@ -67,8 +67,6 @@ https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8?PlaylistM3UCL
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telefides" tvg-logo="http://costaricatelevision.com/sites/default/files/2022-09/telefides-costa-rica.png" group-title="Nacionales",Telefides
 https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
-#EXTINF:-1 tvg-id="TicaTVPlus.cr" tvg-name="Tica TV" tvg-logo="https://i.imgur.com/zMdY7fy.png" group-title="Nacionales",Tica TV
-https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Norte Informativo TV" tvg-logo="https://i.imgur.com/GD15EfH.jpg" group-title="Nacionales",Norte Informativo TV
 https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1 tvg-id="Enlace.cr" tvg-name="Enlace" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Nacionales",Enlace
