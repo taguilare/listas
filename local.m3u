@@ -7,6 +7,8 @@ https://d25v5vivhcrrh5.cloudfront.net/hls/canal2.m3u8
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal4.m3u8
 #EXTINF:-1 tvg-id="1059" tvg-name="Repretel Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Canal6CR.png/640px-Canal6CR.png" group-title="Nacionales",Repretel Canal 6
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal6.m3u8
+#EXTINF:-1 tvg-id="1059" tvg-name="Teletica 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/640px-Teletica_Logo.png" group-title="Nacionales",Teletica 7
+https://m6gdar5eyn93-hls-live.5centscdn.com/StreamTeletica/73aac4dc8f2bab2a5d9525001c401af8.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Teletica radio" tvg-logo="https://i1.sndcdn.com/avatars-000323743731-rrntyq-original.jpg" group-title="Nacionales",Teletica radio
 https://m6gdar5eyn93-hls-live.5centscdn.com/TeleticaRadio/5444e8d6d0436ccb78704882f542e5ac.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="1043" tvg-name="Multimedios Canal 8" tvg-logo="https://i2.paste.pics/060625379c33c11acc84be7cdc18b4eb.png" group-title="Nacionales",Multimedios Canal 8
