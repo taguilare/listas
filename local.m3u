@@ -226,7 +226,7 @@ https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1081" tvg-name="AnimeStation" tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png" group-title="Animacion",AnimeStation
 https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Kanade TV" tvg-logo="http://www.nettvpro.live/uploads/allimg/23/1-2301062300440-L.jpg" group-title="Animacion",Kanade TV
-https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
+https://stream.ichibantv.com:3612/live/kanadetvlive.m3u8
 #EXTINF:-1 tvg-id="1053" tvg-name="Loco Motion" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="Animacion",Loco Motion
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" group-title="Animacion",Anime Zone TV
