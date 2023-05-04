@@ -224,7 +224,7 @@ https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8?Playlist
 #EXTINF:-1 tvg-id="1335" tvg-name="VariedTV" tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png" group-title="Animacion",VariedTV
 https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1081" tvg-name="AnimeStation" tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png" group-title="Animacion",AnimeStation
-https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8?PlaylistM3UCL
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanade TV" tvg-logo="http://www.nettvpro.live/uploads/allimg/23/1-2301062300440-L.jpg" group-title="Animacion",Kanade TV
 https://stream.ichibantv.com:3612/live/kanadetvlive.m3u8
 #EXTINF:-1 tvg-id="1053" tvg-name="Loco Motion" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="Animacion",Loco Motion
