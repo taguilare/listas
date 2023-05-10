@@ -3,8 +3,6 @@
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 #EXTINF:-1 tvg-id="1059" tvg-name="Canal 2" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-2-Costa-Rica-en-vivo-Online.png" group-title="Nacionales",Canal 2
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal2.m3u8
-#EXTINF:-1 tvg-id="1059" tvg-name="FUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/2560px-Logo_de_FUTV.svg.png" group-title="Nacionales",FUTV
-http://190.83.119.67:8000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-id="1059" tvg-name="Repretel Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/1200px-Repretel_4_logo.png" group-title="Nacionales",Repretel Canal 4
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal4.m3u8
 #EXTINF:-1 tvg-id="1059" tvg-name="Repretel Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Canal6CR.png/640px-Canal6CR.png" group-title="Nacionales",Repretel Canal 6
@@ -35,6 +33,10 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8?PlaylistM3UCL
 http://190.83.119.67:8000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TD  mas 2" tvg-logo="https://img.streann.com/streann-img/611fd870e4b03ec37aae6e5e/image/1667399802909.png" group-title="Nacionales",TD mas 2
 https://m6gdar5eyn93-hls-live.5centscdn.com/TDMas2/2409f772ae1a7179adc3f7da77d8785f.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="1059" tvg-name="FUTV" tvg-logo="https://www.futvcr.com/assets/iconos/iconos-02.png" group-title="Nacionales",FUTV
+http://190.83.119.67:8000/play/a03t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Logo-tigosports.png" group-title="Nacionales",Tigo Sports
+http://190.83.119.67:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="1046" tvg-name="IQ Radio TV" tvg-logo="https://www.planetaradios.com/content/radios_fm/IQ_radio_costarica_4444d.png" group-title="Nacionales",IQ Radio TV
 https://rtmp.info/iqtv/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="1245" tvg-name="Canal TV Plus" tvg-logo="https://i2.paste.pics/dd383084a4c255e8445fb60f9001b9e6.png" group-title="Nacionales",Canal TV Plus
@@ -121,7 +123,7 @@ http://190.83.119.67:8000/play/a02b/index.m3u8
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/2560px-Pasiones_Tv_logo.svg.png" group-title="Entretenimiento",Pasiones
 http://190.83.119.67:8000/play/a043/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/E%21_Logo.svg" group-title="Entretenimiento",E entertainment
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/e1-1-logo-black-and-white.png" group-title="Entretenimiento",E entertainment
 http://190.83.119.67:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/2560px-Comedy_Central_2018.svg.png" group-title="Entretenimiento",Comedy Central
 http://190.83.119.67:8000/play/a03k/index.m3u8
@@ -265,10 +267,6 @@ http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="947" tvg-name="EnerGeek" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a835be8b-f399-4124-be2a-d44eb9039e91-profile_image-300x300.png" group-title="Animacion",EnerGeek
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
-#EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek 2" tvg-logo="https://stream.wifispeed.cl/uploads/directorylists/energeek2.png" group-title="Animacion",EnerGeek 2
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek 3" tvg-logo="https://i.paste.pics/415f623047f69e0cdc5c06b09d149de8.png" group-title="Animacion",EnerGeek 3
-https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rewind TV" tvg-logo="https://rewindtv.cl/wp-content/uploads/2020/06/LOGO-2022-HORIZONTAL-SEGUNDO-SEMESTRE.png" group-title="Musica",Rewind TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/320px-Exa_TV_logo.svg.png" group-title="Musica",Exa TV
