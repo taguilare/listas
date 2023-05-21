@@ -327,24 +327,16 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten Action Movies | Espana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="Peliculas y series",Rakuten Action Movies | Espana
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Logo-tigosports.png" group-title="Deportes",Tigo Sports HD
-http://190.83.119.67:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN
 http://190.83.119.67:8000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="Deportes",ESPN 2
 http://190.83.119.67:8000/play/a03w/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 HD
 http://190.83.119.67:8000/play/a03v/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS" tvg-logo="https://mickeyblog.com/wp-content/uploads/2018/04/Espn.png" group-title="Deportes",ESPN PLUS
-http://190.83.119.67:8000/play/a050/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1280px-2015_Fox_sports_logo.svg.png" group-title="Deportes",FOX SPORTS 2
 http://190.83.119.67:8000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title="Deportes",FOX SPORTS 3
 http://190.83.119.67:8000/play/a03x/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FUTV HD CR" tvg-logo="https://www.futvcr.com/assets/iconos/iconos-02.png" group-title="Deportes",FUTV HD CR
-http://190.83.119.67:8000/play/a03t/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 3" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png" group-title="Deportes",SKY SPORT 3
-http://190.83.119.67:8000/play/a051/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rewind TV" tvg-logo="https://rewindtv.cl/wp-content/uploads/2020/06/LOGO-2022-HORIZONTAL-SEGUNDO-SEMESTRE.png" group-title="Musica",Rewind TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Exa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/320px-Exa_TV_logo.svg.png" group-title="Musica",Exa TV
@@ -1019,8 +1011,6 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png" group-title="Canales TV abierta",Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1016" tvg-name="PlanetaTV Movies" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="Canales TV abierta",PlanetaTV Movies
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png" group-title="Canales TV abierta",Retro Play TV
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Se?al 3" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="Canales TV abierta",Retro Plus TV Se?al 3
