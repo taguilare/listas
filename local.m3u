@@ -568,7 +568,7 @@ https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten Action Movies | Espana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="TV abierta",Rakuten Action Movies | Espana
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngmart.com/files/14/D-Letter-PNG-HD.png" group-title="TV abierta",Diti TV
-https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
+https://clientes.videostreaming.ar:19360/dititv/dititv.m3u8
 #EXTINF:-1 tvg-id="03" tvg-name="TeleMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Telemax.jpg" group-title="TV abierta",TeleMAX
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="03" tvg-name="Pichilemu TV" tvg-logo="https://pichilemutv.org/wp-content/uploads/2019/08/Logo-Color-Negro.png" group-title="TV abierta",Pichilemu TV
