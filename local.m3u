@@ -133,6 +133,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/pla
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="947" tvg-name="EnerGeek" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a835be8b-f399-4124-be2a-d44eb9039e91-profile_image-300x300.png" group-title="Anime Geek",EnerGeek
 https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-name="Esports Max" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Anime Geek",Esports Max
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://lh3.googleusercontent.com/-xWaIYbcKgvg/XqxwUMJVw3I/AAAAAAAAyhA/m5qZwYnbFxMujB_7Sk2QJz4HhvdNRqyHQCK8BGAsYHg/s0/2020-05-01.png" group-title="Anime Geek",Dreiko TV
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png" group-title="Anime Geek",Latino Kids TV
@@ -144,15 +146,13 @@ https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1 tvg-id="1335" tvg-name="VariedTV" tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png" group-title="Anime Geek",VariedTV
 https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1081" tvg-name="AnimeStation" tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png" group-title="Anime Geek",AnimeStation
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+https://stream.ichibantv.com:3741/live/aniplustvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanade TV" tvg-logo="http://www.nettvpro.live/uploads/allimg/23/1-2301062300440-L.jpg" group-title="Anime Geek",Kanade TV
 https://stream.ichibantv.com:3612/live/kanadetvlive.m3u8
 #EXTINF:-1 tvg-id="1053" tvg-name="Loco Motion" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="Anime Geek",Loco Motion
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" group-title="Anime Geek",Anime Zone TV
 http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1169" tvg-name="AniTV" tvg-logo="https://i2.paste.pics/5493510668c5a5ad847c25e53b6e86ef.png" group-title="Anime Geek",AniTV
-https://stream.ichibantv.ga:3764/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/929px-Logo_Univision_2019.svg.png" group-title="Entretenimiento",Univision
 http://190.83.119.67:8000/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Entretenimiento",Telemundo
@@ -537,12 +537,18 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf07
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="600728952b1776000776526d" tvg-name="Paramount presenta" tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" group-title="Pluto TV",Paramount presenta
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="Canal 2 Nicaragua" tvg-logo="https://canal2tv.com/wp-content/uploads/2020/06/LOGOB-e1592297058783.png" group-title="TV abierta",Canal 2 Nicaragua
+http://138.117.4.70:8075/Canal02_CooTel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 6 Nicaragua" tvg-logo="https://confidencial.digital/wp-content/uploads/2022/11/logo_canal_61.png" group-title="TV abierta",Canal 6 Nicaragua
+http://138.117.4.70:8075/Canal06_CooTel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Nicaragua" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/Canal9.png" group-title="TV abierta",Canal 9 Nicaragua
+http://138.117.4.70:8075/Canal09_CooTel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10 Nicaragua" tvg-logo="https://www.canal10.com.ni/wp-content/uploads/2020/10/logo_mini.png" group-title="TV abierta",Canal 10 Nicaragua
+http://138.117.4.70:8075/Canal10_CooTel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11 Nicaragua" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/Canal 11.png" group-title="TV abierta",Canal 11 Nicaragua
+http://138.117.4.70:8075/Canal11_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV " tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="TV abierta",Retro Plus TV 
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="472" tvg-name="Mi TV Television Clasica" tvg-logo="https://i2.paste.pics/d2b09f38e32fa6367db57dba0a4d17f2.png" group-title="TV abierta",Mi TV Television Clasica
-https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1074" tvg-name="Eva Retro" tvg-logo="https://i2.paste.pics/1fac7deeb4ca257162cde40abd006d9d.png" group-title="TV abierta",Eva Retro
-https://stmv2.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Filmstream.nl" tvg-name="Filmstream" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="TV abierta",Filmstream
 https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="1320" tvg-name="TV PRIME Movie" tvg-logo="https://i.paste.pics/9589e4ec10d95b3d940aa71538bc8afb.png" group-title="TV abierta",TV PRIME Movie
@@ -551,8 +557,6 @@ https://tv.clientetvstudio.net:3670/live/daleplaytvlive.m3u8?PlaylistM3UCL
 https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png" group-title="TV abierta",Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Cine Club" tvg-logo="https://i.imgur.com/t9gOcwz.png" group-title="TV abierta",Cine Club
-https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 tvg-id="208" tvg-name="CINE.AR" tvg-logo="https://lh3.googleusercontent.com/-Y_ezb_qUTw4/YFs6qLiovmI/AAAAAAABA3E/qQKwFSEuiUYZUscGD9oqKCe6XqB_u48qQCK8BGAsYHg/s512/2021-03-24.png" group-title="TV abierta",CINE.AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Cine Horrorfy | Estados Unidos" tvg-logo="https://i.imgur.com/zIMRPHL.png" group-title="TV abierta",Cine Horrorfy | Estados Unidos
@@ -567,7 +571,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten Action Movies | Espana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="TV abierta",Rakuten Action Movies | Espana
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngmart.com/files/14/D-Letter-PNG-HD.png" group-title="TV abierta",Diti TV
+#EXTINF:-1 tvg-id="" tvg-name="Diti TV" tvg-logo="https://www.pngmart.com/files/14/D-Letter-PNG-HD.png" group-title="TV abierta",Diti TV
 https://clientes.videostreaming.ar:19360/dititv/dititv.m3u8
 #EXTINF:-1 tvg-id="03" tvg-name="TeleMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Telemax.jpg" group-title="TV abierta",TeleMAX
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
@@ -595,24 +599,12 @@ https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNEspanaLatinAmerica.us" tvg-name="EWTN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_(2016).svg/512px-EWTN_Logo_and_Wordmark_(2016).svg.png" group-title="TV abierta",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 2 Nicaragua" tvg-logo="https://canal2tv.com/wp-content/uploads/2020/06/LOGOB-e1592297058783.png" group-title="TV abierta",Canal 2 Nicaragua
-http://138.117.4.70:8075/Canal02_CooTel/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 6 Nicaragua" tvg-logo="https://confidencial.digital/wp-content/uploads/2022/11/logo_canal_61.png" group-title="TV abierta",Canal 6 Nicaragua
-http://138.117.4.70:8075/Canal06_CooTel/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Nicaragua" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/Canal9.png" group-title="TV abierta",Canal 9 Nicaragua
-http://138.117.4.70:8075/Canal09_CooTel/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 10 Nicaragua" tvg-logo="https://www.canal10.com.ni/wp-content/uploads/2020/10/logo_mini.png" group-title="TV abierta",Canal 10 Nicaragua
-http://138.117.4.70:8075/Canal10_CooTel/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 11 Nicaragua" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/Canal 11.png" group-title="TV abierta",Canal 11 Nicaragua
-http://138.117.4.70:8075/Canal11_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mega" tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png" group-title="TV abierta",Mega
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telemax" tvg-logo="http://www.telemax.com.mx/wp-content/themes/multinews/images/logo.png" group-title="TV abierta",Telemax
 http://s5.mexside.net:1935/telemax/telemax/chunklist_w586584359.m3u8
 #EXTINF:-1 tvg-id="FiestaMax.ve" tvg-name="Fiesta Max" tvg-logo="https://i.imgur.com/8am0c5E.png" group-title="TV abierta",Fiesta Max
 http://vcpar.myplaytv.com/fiestamax/live/playlist.m3u8
-#EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-name="Esports Max" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="TV abierta",Esports Max
-http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SEOTV.bo" tvg-name="SEO TV" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="TV abierta",SEO TV
 https://live.seo.tv.bo/live/1SEO.m3u8
 #EXTINF:-1 tvg-id="SEOTVNovelas.bo" tvg-name="SEO TV Novelas" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="TV abierta",SEO TV Novelas
