@@ -187,6 +187,8 @@ http://190.83.119.67:8000/play/a01z/index.m3u8
 http://190.83.119.67:8000/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Peliculas y series",TNT Series
 http://190.83.119.67:8000/play/a040/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP2zhdXr1M0qK9BZBNG1xLRpzySP0PCdM88ICTTo-jHmFS7nKXTxkKyKxFdNYyHr021V2NNP6c97_JKVe8B23e0cZ99EklZ5ASQQWLdXSfq8c2v0MpPBH2HTAN0i-ryJjT-BZ4s2bMJaScHL4i4sDiGqXsS-HGp9t92HDsKXAR1FUCnlZJtkHzSV5B-A/s1600/TBS-TNTNovelas.jpg" group-title="Peliculas y series",TNT Novelas
+http://190.83.119.67:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="Peliculas y series",Warner Channel
 http://190.83.119.67:8000/play/a039/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="Peliculas y series",Star Channel
