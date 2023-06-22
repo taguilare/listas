@@ -21,7 +21,7 @@ https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8
 https://5bf8041cb3fed.streamlock.net:443/TVSURCANAL14/TVSURCANAL14/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1050" tvg-name="TVN 14" tvg-logo="https://i2.paste.pics/7a71c98ae29da64846c3690f0417b341.png" group-title="Costa Rica",TVN 14
 https://5fd8fec96951d.streamlock.net:8443/TVN/CH14.stream_720p/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1" tvg-name="Canal 15 UCR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_con_sombra.png/1200px-Logo_con_sombra.png" group-title="Costa Rica",Canal 15 UCR
+#EXTINF:-1 tvg-id="1" tvg-name="Canal 15 UCR" tvg-logo="https://www.ucr.ac.cr/medios/fotos/2007/logo_canal_15_Oct_2007.jpg" group-title="Costa Rica",Canal 15 UCR
 http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="AnexionTV.cr" tvg-name="Anexion TV Canal 36" tvg-logo="https://i.imgur.com/7pfXF8N.png" group-title="Costa Rica",Anexion TV Canal 36
 https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=
@@ -181,9 +181,9 @@ https://live.seo.tv.bo/live/1SEO.m3u8
 https://live.seo.tv.bo/live/3SEO.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Estrella TV | Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/9/99/20200205000404!Estrella_TV_-_2020_logo.png" group-title="Entretenimiento",Estrella TV | Mexico
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DITI TV" tvg-logo="www.m3u.cl/logo/1413_Diti_TV.png" group-title="Entretenimiento",DITI TV
+#EXTINF:-1 tvg-id="" tvg-name="DITI TV" tvg-logo="https://ditiflow.com/wp-content/uploads/2019/07/DITI_logo-blk.png" group-title="Entretenimiento",DITI TV
 https://clientes.videostreaming.ar:19360/dititv/dititv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Terror TV" tvg-logo="www.m3u.cl/logo/1420_Terror_TV.png" group-title="Entretenimiento",Terror TV
+#EXTINF:-1 tvg-id="" tvg-name="Terror TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Terror_TV_logo.jpg" group-title="Entretenimiento",Terror TV
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rewind TV" tvg-logo="https://rewindtv.cl/wp-content/uploads/2020/06/LOGO-2022-HORIZONTAL-SEGUNDO-SEMESTRE.png" group-title="Musica",Rewind TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
