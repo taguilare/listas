@@ -117,6 +117,8 @@ https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" group-title="ANIME GEEK",Anime Zone TV
 http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Rurouni_Kenshin_2023_Anime_Logo.png" group-title="ANIME GEEK",Rurouni Kenshin Capitulo 1
+https://v5jtd49o.sw-cdnstream.com/hls2/01/00535/q4oo6cfwb8lj_,n,h,.urlset/master.m3u8?t=VHUcTE2Te9zGh-o-2_1UOgEjI-EatL4dV2xE6sqWx7M&s=1692153881&e=129600&f=2677062&srv=w2r15xapcncg&i=0.0&sp=500&p1=w2r15xapcncg&p2=w2r15xapcncg
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten Comedy Movies | Espana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="ENTRETENIMIENTO",Rakuten Comedy Movies | Espana
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten Action Movies | Espana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="ENTRETENIMIENTO",Rakuten Action Movies | Espana
@@ -135,8 +137,6 @@ https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmstream.nl" tvg-name="Filmstream" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="ENTRETENIMIENTO",Filmstream
 https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMax" tvg-name="TVMax" tvg-logo="https://i.imgur.com/XcrkfGh.png" group-title="ENTRETENIMIENTO",TVMax
-https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="03" tvg-name="Telemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Telemax.jpg" group-title="ENTRETENIMIENTO",Telemax
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telemax" tvg-logo="http://www.telemax.com.mx/wp-content/themes/multinews/images/logo.png" group-title="ENTRETENIMIENTO",Telemax
@@ -153,8 +153,6 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="195146" tvg-name="My Time MX" tvg-logo="http://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="ENTRETENIMIENTO",My Time MX
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="03" tvg-name="Next HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Next_hd.png" group-title="ENTRETENIMIENTO",Next HD
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Estrella TV | Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/9/99/20200205000404!Estrella_TV_-_2020_logo.png" group-title="ENTRETENIMIENTO",Estrella TV | Mexico
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DITI TV" tvg-logo="https://ditiflow.com/wp-content/uploads/2019/07/DITI_logo-blk.png" group-title="ENTRETENIMIENTO",DITI TV
@@ -191,14 +189,8 @@ http://europa-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="490" tvg-name="Fashion" tvg-logo="https://i2.paste.pics/b68b2245fdf953d233c718afe71c2594.png" group-title="ENTRETENIMIENTO",Fashion
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="03" tvg-name="ACS Network" tvg-logo="https://image.roku.com/developer_channels/prod/ec305f194d2f6d721af7718c76e6ce97347ab5acb315d31dbc1da494800b9817.png" group-title="ENTRETENIMIENTO",ACS Network
-https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
-#EXTINF:-1 tvg-id="03" tvg-name="Spectrum Channel" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Spectrum-Symbol.jpg" group-title="ENTRETENIMIENTO",Spectrum Channel
-https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
 #EXTINF:-1 tvg-id="03" tvg-name="POP TV" tvg-logo="https://play-lh.googleusercontent.com/vG9ake2LlHnK-E6hzAevkU9upDYP85rpqjsXakJ6MiKNC8EjDzNB4Jby2bXFbUakW58" group-title="ENTRETENIMIENTO",POP TV
 https://v4.tustreaming.cl/poptv/index.m3u8 
-#EXTINF:-1 tvg-id="03" tvg-name="Bayres" tvg-logo="https://www.bayrestv.com.ar/assets/logo-bayres-tv.png" group-title="ENTRETENIMIENTO",Bayres
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="03" tvg-name="Gen TV" tvg-logo="https://www.coolstreaming.us/img/ch/image24022815888.jpg" group-title="ENTRETENIMIENTO",Gen TV
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
 #EXTINF:-1 tvg-id="03" tvg-name="Sicardi TV" tvg-logo="https://static.wixstatic.com/media/794b77_f93f89c631cc41a7a43137208bd7d75b~mv2.jpg/v1/fill/w_644,h_281,al_c,lg_1,q_80,enc_auto/794b77_f93f89c631cc41a7a43137208bd7d75b~mv2.jpg" group-title="ENTRETENIMIENTO",Sicardi TV
@@ -461,7 +453,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b177600077652
 http://190.83.119.67:8000/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="PREMIUM",Telemundo
 http://190.83.119.67:8000/play/a01w/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Azteca corazon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz?n_logo.svg/1200px-TV_Azteca_Coraz?n_logo.svg.png" group-title="PREMIUM",Azteca corazon
+#EXTINF:-1 tvg-id="" tvg-name="Azteca corazon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Coraz%C3%B3n_%28TV_channel%29_logo_2021.png" group-title="PREMIUM",Azteca corazon
 http://190.83.119.67:8000/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Azteca Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TV_Azteca_Mundo_logo.svg/1200px-TV_Azteca_Mundo_logo.svg.png" group-title="PREMIUM",Azteca Mundo
 http://190.83.119.67:8000/play/a02v/index.m3u8
@@ -471,7 +463,7 @@ http://190.83.119.67:8000/play/a02b/index.m3u8
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/2560px-Pasiones_Tv_logo.svg.png" group-title="PREMIUM",Pasiones
 http://190.83.119.67:8000/play/a043/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="E entertainment" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/e1-1-logo-black-and-white.png" group-title="PREMIUM",E entertainment
+#EXTINF:-1 tvg-id="" tvg-name="E entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="PREMIUM",E entertainment
 http://190.83.119.67:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/2560px-Comedy_Central_2018.svg.png" group-title="PREMIUM",Comedy Central
 http://190.83.119.67:8000/play/a03k/index.m3u8
@@ -509,7 +501,7 @@ http://190.83.119.67:8000/play/a01x/index.m3u8
 http://190.83.119.67:8000/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1694px-Logo_Golden_TV.svg.png" group-title="PREMIUM",Golden
 http://190.83.119.67:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/AE-logo.png" group-title="PREMIUM",A&E
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="PREMIUM",A&E
 http://190.83.119.67:8000/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-0.png" group-title="PREMIUM",AMC
 http://190.83.119.67:8000/play/a01v/index.m3u8
@@ -529,6 +521,14 @@ http://190.83.119.67:8000/play/a03v/index.m3u8
 http://190.83.119.67:8000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title="PREMIUM",FOX SPORTS 3
 http://190.83.119.67:8000/play/a03x/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://futvcr.com/assets/iconos/iconos-02.png" group-title="PREMIUM",FUTV
+http://190.83.119.67:8000/play/a03t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png" group-title="PREMIUM",Tigo Sports
+http://190.83.119.67:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TD_M%C3%A1s_Logo.png" group-title="PREMIUM",TD mas
+http://190.83.119.67:8000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/2560px-TD_M%C3%A1s_2_Logo.svg.png" group-title="PREMIUM",TD mas 2
+http://190.83.119.67:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Exa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/320px-Exa_TV_logo.svg.png" group-title="PREMIUM",Exa TV
 http://190.83.119.67:8000/play/a037/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-music-television-png-logo-7.png" group-title="PREMIUM",MTV
