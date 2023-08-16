@@ -117,8 +117,6 @@ https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" group-title="ANIME GEEK",Anime Zone TV
 http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Rurouni_Kenshin_2023_Anime_Logo.png" group-title="ANIME GEEK",Rurouni Kenshin Capitulo 1
-https://v5jtd49o.sw-cdnstream.com/hls2/01/00535/q4oo6cfwb8lj_,n,h,.urlset/master.m3u8?t=VHUcTE2Te9zGh-o-2_1UOgEjI-EatL4dV2xE6sqWx7M&s=1692153881&e=129600&f=2677062&srv=w2r15xapcncg&i=0.0&sp=500&p1=w2r15xapcncg&p2=w2r15xapcncg
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten Comedy Movies | Espana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="ENTRETENIMIENTO",Rakuten Comedy Movies | Espana
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten Action Movies | Espana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="ENTRETENIMIENTO",Rakuten Action Movies | Espana
@@ -573,3 +571,15 @@ http://190.83.119.67:8000/play/a03q/index.m3u8
 http://190.83.119.67:8000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Universal Reality" tvg-logo="https://www.universalplus.com/files/channels/120254749.png" group-title="UNIVERSAL",Universal Reality
 http://190.83.119.67:8000/play/a03p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Rurouni_Kenshin_2023_Anime_Logo.png" group-title="RUROUNI KENSHIN 2023",Rurouni Kenshin Capitulo 1
+https://v5jtd49o.sw-cdnstream.com/hls2/01/00535/q4oo6cfwb8lj_,n,h,.urlset/master.m3u8?t=VHUcTE2Te9zGh-o-2_1UOgEjI-EatL4dV2xE6sqWx7M&s=1692153881&e=129600&f=2677062&srv=w2r15xapcncg&i=0.0&sp=500&p1=w2r15xapcncg&p2=w2r15xapcncg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Rurouni_Kenshin_2023_Anime_Logo.png" group-title="RUROUNI KENSHIN 2023",Rurouni Kenshin Capitulo 2
+https://tl9clmrn.sw-cdnstream.com/hls2/01/00568/o3wkhrbabxyn_,n,h,.urlset/master.m3u8?t=RfLSS1bkhfZncOABEVJjPY8E10Z0M9DgnSRxDzF1IAA&s=1692154397&e=129600&f=2842548&srv=n43sbuy6pztg&i=0.0&sp=500&p1=n43sbuy6pztg&p2=n43sbuy6pztg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Rurouni_Kenshin_2023_Anime_Logo.png" group-title="RUROUNI KENSHIN 2023",Rurouni Kenshin Capitulo 3
+https://bqpofk7o.sw-cdnstream.com/hls2/01/00704/gfqht6m1o3xb_,n,h,.urlset/master.m3u8?t=GXjTx5KU5bOpUN5vBF2mczsB9zBm72czVfV5_-guWiQ&s=1692154468&e=129600&f=3520195&srv=w2r15xapcncg&i=0.0&sp=500&p1=w2r15xapcncg&p2=w2r15xapcncg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Rurouni_Kenshin_2023_Anime_Logo.png" group-title="RUROUNI KENSHIN 2023",Rurouni Kenshin Capitulo 4
+https://z23k1a8wnba1.sw-cdnstream.com/hls2/01/00781/boyoxyjnql2k_,n,h,.urlset/master.m3u8?t=NnibvvkC7MNGzLxcI0VEzkAqYnO9FlrkntrtEGPE90Q&s=1692154540&e=129600&f=3909275&srv=p1xdt6tm2bfb&i=0.0&sp=500&p1=p1xdt6tm2bfb&p2=p1xdt6tm2bfb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Rurouni_Kenshin_2023_Anime_Logo.png" group-title="RUROUNI KENSHIN 2023",Rurouni Kenshin Capitulo 5
+https://qegvxbigwywv.sw-cdnstream.com/hls2/01/00912/phh8mryjqhgc_,n,h,.urlset/master.m3u8?t=8FstxQo_O4kRdahGWp5Q0HJ2d0nUFYPZwo9phlIU4-0&s=1692154607&e=129600&f=4561848&srv=w2r15xapcncg&i=0.0&sp=500&p1=w2r15xapcncg&p2=w2r15xapcncg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Rurouni_Kenshin_2023_Anime_Logo.png" group-title="RUROUNI KENSHIN 2023",Rurouni Kenshin Capitulo 6
+https://wquzstml7rhm.sw-cdnstream.com/hls2/01/01140/74hen40z2sin_,n,h,.urlset/master.m3u8?t=51wrrshf-GgGfNEMA7tUq-x_wOxLTBOjxCWAOdjjCj8&s=1692154675&e=129600&f=5702435&srv=w2r15xapcncg&i=0.0&sp=500&p1=w2r15xapcncg&p2=w2r15xapcncg
