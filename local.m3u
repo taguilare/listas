@@ -206,6 +206,8 @@ https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Terror TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Terror_TV_logo.jpg" group-title="ENTRETENIMIENTO",Terror TV
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="PlanetaTV Peliculas" tvg-logo="https://thumbnail.imgbin.com/21/20/13/imgbin-brand-logo-font-technology-V8XcYvcdTuUbq7bSt63gjEneM_t.jpg" group-title="ENTRETENIMIENTO",PlanetaTV Peliculas
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmstream.nl" tvg-name="Filmstream" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="ENTRETENIMIENTO",Filmstream
 https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
 
