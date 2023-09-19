@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1059" tvg-name="Canal 0" tvg-logo="" group-title="COSTA RICA",Canal 0
+#EXTINF:-1 tvg-id="1059" tvg-name="Prueba" tvg-logo="" group-title="COSTA RICA",Prueba
 https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="1059" tvg-name="Canal 1" tvg-logo="http:www.m3u.cl/logo/1233_Canal_1.png" group-title="COSTA RICA",Canal 1
