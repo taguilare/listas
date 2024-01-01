@@ -179,6 +179,9 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Radio" tvg-logo="https://i.paste.pics/4a15cf6d76aaf3246f3a6cedd48e0ac9.png" group-title="ANIME GEEK",EnerGeek Radio
 https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="1466" tvg-name="Pandamax TV" tvg-logo="https://cdn.m3u.cl/logo/1466_Pandamax_TV.png" group-title="ANIME GEEK",Pandamax TV | CL
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="" tvg-name="Classic Channel" tvg-logo="http://www.m3u.cl/logo/1430_Classic_Channel.png" group-title="ANIME GEEK",Classic Channel
 https://paneltv.online:1936/8046/8046/playlist.m3u8
 
