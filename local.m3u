@@ -226,7 +226,7 @@ https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="ENTRETENIMIENTO",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/TVN_Panam?_(2017).png" group-title="ENTRETENIMIENTO",TVN
+#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://static.tvn-2.com/statics/public/img/tvndefault.jpg" group-title="ENTRETENIMIENTO",TVN
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/f726ba979e3d4ef88edaa486960eca2c/playlist_dvr_ssaiM.m3u8
 
 #EXTINF:-1 tvg-id="1299" tvg-name="Lanco TV" tvg-logo="https://cdn.m3u.cl/logo/1299_Lanco_TV.png" group-title="ENTRETENIMIENTO",Lanco TV
