@@ -289,17 +289,17 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/f726ba979e3d4ef88edaa486960eca2c/playlist_dvr_ssaiM.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/Vg1FlYWv3f_xiG-52sEBZoHuJY_R_s0GVMMPMgNxUMc.jpg" group-title="ENTRETENIMIENTO",Azteca Internacional
+#EXTINF:-1 tvg-id="ext" tvg-name="Azteca Internacional" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/Vg1FlYWv3f_xiG-52sEBZoHuJY_R_s0GVMMPMgNxUMc.jpg" group-title="ENTRETENIMIENTO",Azteca Internacional
 https://stream.ads.ottera.tv/cl/240105cmblvt4kehrmalqhvhc0/960x540_1927200_1_f.m3u8?i=475_5397
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/logo/366x206/corazon_c_1920x1080.jpg" group-title="ENTRETENIMIENTO",Corazón Novelas
-https://stream.ads.ottera.tv/cl/240105cmblvt4kehrmalqhvhc0/960x540_1927200_1_f.m3u8?i=475_5397
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/uUDVAqZNNYIdwhD_5n3zGbTyLpufAe6gskMgp9BroYQ.jpg" group-title="ENTRETENIMIENTO",Novelisima
-https://stream.ads.ottera.tv/cl/240105cmblvt4kehrmalqhvhc0/960x540_1927200_1_f.m3u8?i=475_5397
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/image.jpg" group-title="ENTRETENIMIENTO",Canela TV Novelas
+#EXTINF:-1 tvg-id="ext" tvg-name="Coraz?n Novelas" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/logo/366x206/corazon_c_1920x1080.jpg" group-title="ENTRETENIMIENTO",Coraz?n Novelas
+https://stream.ads.ottera.tv/cl/240105cmbm754kehrmalqi1j0g/960x540_1926804_1_f.m3u8?i=475_5399
+#EXTINF:-1 tvg-id="ext" tvg-name="Novelisima" tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/uUDVAqZNNYIdwhD_5n3zGbTyLpufAe6gskMgp9BroYQ.jpg" group-title="ENTRETENIMIENTO",Novelisima
+https://stream.ads.ottera.tv/cl/240105cmbm8dvi6rmjjv31qkt0/1280x720_3071200_0_f.m3u8?i=475_2380
+#EXTINF:-1 tvg-id="ext" tvg-name="Canela TV Novelas" tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/image.jpg" group-title="ENTRETENIMIENTO",Canela TV Novelas
 https://stream.ads.ottera.tv/cl/240105cmbltq0pc25g4v87r9mg/960x540_900000_4_f.m3u8?i=475_1152
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/channel-novelas-turcas-16x9.jpg" group-title="ENTRETENIMIENTO",Canela TV Novelas Turcas
+#EXTINF:-1 tvg-id="ext" tvg-name="Canela TV Novelas Turcas" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/channel-novelas-turcas-16x9.jpg" group-title="ENTRETENIMIENTO",Canela TV Novelas Turcas
 https://stream.ads.ottera.tv/cl/240105cmblrtgpc25g4v87qos0/960x540_900000_4_f.m3u8?i=475_5088
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/channel-novelas-inolvidables-16x9_0.jpg" group-title="ENTRETENIMIENTO",Canela TV Novelas inolvidables
+#EXTINF:-1 tvg-id="ext" tvg-name="Canela TV Novelas inolvidables" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/channel-novelas-inolvidables-16x9_0.jpg" group-title="ENTRETENIMIENTO",Canela TV Novelas inolvidables
 https://ov.ottera.tv:443/channels/cnm_niv/master900000.m3u8;session=cnm_niv
 #EXTINF:-1 tvg-id="1299" tvg-name="Lanco TV" tvg-logo="https://cdn.m3u.cl/logo/1299_Lanco_TV.png" group-title="ENTRETENIMIENTO",Lanco TV
 https://5e3483cba9114.streamlock.net:443/hfvhxfwxjm/hfvhxfwxjm/playlist.m3u8?PlaylistM3UCL
@@ -490,7 +490,7 @@ https://v4.tustreaming.cl/poptv/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="03" tvg-name="Sicardi TV" tvg-logo="https://static.wixstatic.com/media/794b77_f93f89c631cc41a7a43137208bd7d75b~mv2.jpg/v1/fill/w_644,h_281,al_c,lg_1,q_80,enc_auto/794b77_f93f89c631cc41a7a43137208bd7d75b~mv2.jpg" group-title="ENTRETENIMIENTO",Sicardi TV
+#EXTINF:-1 tvg-id="03" tvg-name="Sicardi TV" tvg-logo="https://static.wixstatic.com/media/794b77_f93f89c631cc41a7a43137208bd7d75b~mv2.jpg/v1/fill/w_644,h_281,al_c,lg_1,q_80,enc_auto/794b77_f93f89c631cc41a7a43137208bd7d75b~mv2.jpg" group-title="ENTRETENIMIENTO",q_80,enc_auto/794b77_f93f89c631cc41a7a43137208bd7d75b~mv2.jpg group-title=ENTRETENIMIENTO,Sicardi TV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
 
@@ -540,7 +540,7 @@ http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-zona_de_accion-navidadlinear-zona_de_accion-16x9-albert_0.jpg" group-title="INFANTIL",Zona de Acción
+#EXTINF:-1 tvg-id="ext" tvg-name="Zona de Acci?n" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-zona_de_accion-navidadlinear-zona_de_accion-16x9-albert_0.jpg" group-title="INFANTIL",Zona de Acci?n
 https://stream.ads.ottera.tv/cl/240105cmbm2qsq67uu22m2ke0g/960x540_900000_4_f.m3u8?i=475_4312
 #EXTINF:-1 tvg-id="1160" tvg-name="Rewind Radio y TV" tvg-logo="https://cdn.m3u.cl/logo/1_Rewind_Radio_y_TV.png" group-title="MUSICA",Rewind Radio y TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
@@ -1064,3 +1064,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195
 
 #EXTINF:-1 tvg-id="600728952b1776000776526d" tvg-name="Paramount presenta" tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" group-title="PLUTO TV",Paramount presenta
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
