@@ -335,7 +335,7 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://platcon.tv/img/p/4/3/9/439.jpg" group-title="ANIME GEEK",Dreiko TV
+#EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://www.dreikotv.com/wp-content/uploads/2023/10/logo-1024x823.png" group-title="ANIME GEEK",Dreiko TV
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
 
