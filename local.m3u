@@ -7,13 +7,15 @@ https://d2t46xrpai3it5.cloudfront.net/Canal2CR/1ccdc8545fd05b83e9c57826d0de1069.
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="1059" tvg-name="Repretel Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Canal6CR.png/640px-Canal6CR.png" group-title="COSTA RICA",Repretel Canal 6
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="COSTA RICA",Teletica 7
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/269.ts
 #EXTINF:-1 tvg-id="1043" tvg-name="Multimedios Canal 8" tvg-logo="https://i2.paste.pics/060625379c33c11acc84be7cdc18b4eb.png" group-title="COSTA RICA",Multimedios Canal 8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1052" tvg-name="TV Sur Canal 9" tvg-logo="https://i2.paste.pics/e71dbd173c7d1e13f92e019c7a9ac89f.png" group-title="COSTA RICA",TV Sur Canal 9
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1060" tvg-name="Repretel Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Repretel_11_logo.png" group-title="COSTA RICA",Repretel Canal 11
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bgkNkLj.png" group-title="COSTA RICA",Canal 13
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal 13" tvg-logo="https://i.imgur.com/bgkNkLj.png" group-title="COSTA RICA",Canal 13
 https://rpn3.bozztv.com/ssh101/ssh101/sinart13/playlist.m3u8
 #EXTINF:-1 tvg-id="1051" tvg-name="Tv Sur Canal 14" tvg-logo="https://i2.paste.pics/55978deeb5bf9d20b0c459cff3635225.png" group-title="COSTA RICA",Tv Sur Canal 14
 https://5bf8041cb3fed.streamlock.net:443/TVSURCANAL14/TVSURCANAL14/playlist.m3u8?PlaylistM3UCL
@@ -77,7 +79,7 @@ https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1062" tvg-name="VM Latino" tvg-logo="https://i2.paste.pics/fbefcbca47462eb80eedbeaf95126474.png" group-title="COSTA RICA",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BKkljlc.png" group-title="ANIME GEEK",MetaVersus
+#EXTINF:-1 tvg-id="ext" tvg-name="MetaVersus" tvg-logo="https://i.imgur.com/BKkljlc.png" group-title="ANIME GEEK",MetaVersus
 https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="EnerGeek" tvg-logo="https://i2.paste.pics/5efe361b75000b6eb6104bf22a0880fe.png" group-title="ANIME GEEK",EnerGeek
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
@@ -111,9 +113,9 @@ https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ3NmFjYjQtNzM2Yi00NDEyLTgzYjMtMzFjODAwMjg2NzUzXkEyXkFqcGdeQXVyNjM2NDIwMzQ@._V1_.jpg" group-title="ANIME GEEK",Anime Zone TV
 http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="ANIME GEEK",RetroTV
+#EXTINF:-1 tvg-id="ext" tvg-name="RetroTV" tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="ANIME GEEK",RetroTV
 https://rpn3.bozztv.com/ssh101/ssh101/retroxtvhd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="ANIME GEEK",BitMe
+#EXTINF:-1 tvg-id="ext" tvg-name="BitMe" tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="ANIME GEEK",BitMe
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Canal 2 Nicaragua" tvg-logo="https://canal2tv.com/wp-content/uploads/2020/06/LOGOB-e1592297058783.png" group-title="ENTRETENIMIENTO",Canal 2 Nicaragua
 http://138.117.4.70:8075/Canal02_CooTel/playlist.m3u8
@@ -193,29 +195,29 @@ https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8?PlaylistM3UCL
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="03" tvg-name="POP TV" tvg-logo="https://play-lh.googleusercontent.com/vG9ake2LlHnK-E6hzAevkU9upDYP85rpqjsXakJ6MiKNC8EjDzNB4Jby2bXFbUakW58" group-title="ENTRETENIMIENTO",POP TV
 https://v4.tustreaming.cl/poptv/index.m3u8 
-#EXTINF:-1 tvg-id="03" tvg-name="Sicardi TV" tvg-logo="https://static.wixstatic.com/media/794b77_f93f89c631cc41a7a43137208bd7d75b~mv2.jpg/v1/fill/w_644,h_281,al_c,lg_1,q_80,enc_auto/794b77_f93f89c631cc41a7a43137208bd7d75b~mv2.jpg" group-title="ENTRETENIMIENTO",q_80,enc_auto/794b77_f93f89c631cc41a7a43137208bd7d75b~mv2.jpg group-title=ENTRETENIMIENTO,q_80,enc_auto/794b77_f93f89c631cc41a7a43137208bd7d75b~mv2.jpg group-title=ENTRETENIMIENTO,lg_1,q_80,enc_auto/794b77_f93f89c631cc41a7a43137208bd7d75b~mv2.jpg group-title=ENTRETENIMIENTO,lg_1,q_80,enc_auto/794b77_f93f89c631cc41a7a43137208bd7d75b~mv2.jpg group-title=ENTRETENIMIENTO,lg_1,q_80,enc_auto/794b77_f93f89c631cc41a7a43137208bd7d75b~mv2.jpg group-title=ENTRETENIMIENTO,q_80,enc_auto/794b77_f93f89c631cc41a7a43137208bd7d75b~mv2.jpg group-title=ENTRETENIMIENT
+#EXTINF:-1 tvg-id="03" tvg-name="Sicardi TV" tvg-logo="https://static.wixstatic.com/media/794b77_f93f89c631cc41a7a43137208bd7d75b~mv2.jpg/v1/fill/w_644,h_281,al_c,lg_1,q_80,enc_auto/794b77_f93f89c631cc41a7a43137208bd7d75b~mv2.jpg" group-title="ENTRETENIMIENTO",q_80,enc_auto/794b77_f93f89c631cc41a7a43137208bd7d75b~mv2.jpg group-title=ENTRETENIMIENTO,q_80,enc_auto/794b77_f93f89c631cc41a7a43137208bd7d75b~mv2.jpg group-title=ENTRETENIMIENTO,q_80,enc_auto/794b77_f93f89c631cc41a7a43137208bd7d75b~mv2.jpg group-title=ENTRETENIMIENTO,lg_1,q_80,enc_auto/794b77_f93f89c631cc41a7a43137208bd7d75b~mv2.jpg group-title=ENTRETENIMIENTO,lg_1,q_80,enc_auto/794b77_f93f89c631cc41a7a43137208bd7d75b~mv2.jpg group-title=ENTRETENIMIENTO,lg_1,q_80,enc_auto/794b77_f93f89c631cc41a7a43137208bd7d75b~mv2.jpg group-title=ENTRETENIMIENTO,q_80,enc_auto/794b77_f93f89c631cc41a7a43137208bd7d75b~mv2.jpg group-title=ENTRETENIMIENT
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/B5UN7C8.png" group-title="ENTRETENIMIENTO",Az Cinema
+#EXTINF:-1 tvg-id="ext" tvg-name="Az Cinema" tvg-logo="https://i.imgur.com/B5UN7C8.png" group-title="ENTRETENIMIENTO",Az Cinema
 http://stream.flynetwifi.com:1935/live/mobile-120/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="ENTRETENIMIENTO",Corazon
+#EXTINF:-1 tvg-id="ext" tvg-name="Corazon" tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="ENTRETENIMIENTO",Corazon
 http://stream.flynetwifi.com:1935/live/mobile-118/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="ENTRETENIMIENTO",Azteca Internacional
+#EXTINF:-1 tvg-id="ext" tvg-name="Azteca Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="ENTRETENIMIENTO",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="ENTRETENIMIENTO",Canal 5 México
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal 5 México" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="ENTRETENIMIENTO",Canal 5 México
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="ENTRETENIMIENTO",Edge
+#EXTINF:-1 tvg-id="ext" tvg-name="Edge" tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="ENTRETENIMIENTO",Edge
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Gnz4twB.png" group-title="ENTRETENIMIENTO",Golden
+#EXTINF:-1 tvg-id="ext" tvg-name="Golden" tvg-logo="https://i.imgur.com/Gnz4twB.png" group-title="ENTRETENIMIENTO",Golden
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="ENTRETENIMIENTO",Golden Plus
+#EXTINF:-1 tvg-id="ext" tvg-name="Golden Plus" tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="ENTRETENIMIENTO",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GBlvQBI.png" group-title="ENTRETENIMIENTO",Golden Premier
+#EXTINF:-1 tvg-id="ext" tvg-name="Golden Premier" tvg-logo="https://i.imgur.com/GBlvQBI.png" group-title="ENTRETENIMIENTO",Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="ENTRETENIMIENTO",Las estrellas
+#EXTINF:-1 tvg-id="ext" tvg-name="Las estrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="ENTRETENIMIENTO",Las estrellas
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="ENTRETENIMIENTO",TLNovelas
+#EXTINF:-1 tvg-id="ext" tvg-name="TLNovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="ENTRETENIMIENTO",TLNovelas
 https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="ENTRETENIMIENTO",Univision
+#EXTINF:-1 tvg-id="ext" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="ENTRETENIMIENTO",Univision
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="1300" tvg-name="Moni TV" tvg-logo="https://i.paste.pics/d31abf80e663b92c77c7f44cb2b65147.png" group-title="INFANTIL",Moni TV
 https://stream.skarnetchile.com:3817/live/monitvlive.m3u8?PlaylistM3UCL
@@ -229,7 +231,7 @@ http://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Pequeradio" tvg-logo="https://static.wixstatic.com/media/76b12f_980c794be91b440faac46de6e57eb10e~mv2.png" group-title="INFANTIL",Pequeradio
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4DfnOTA.png" group-title="MUSICA",Bandamax
+#EXTINF:-1 tvg-id="ext" tvg-name="Bandamax" tvg-logo="https://i.imgur.com/4DfnOTA.png" group-title="MUSICA",Bandamax
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png" group-title="MUSICA",VClassicTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
