@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="1059" tvg-name="Canal 1" tvg-logo="http:www.m3u.cl/logo/1233_Canal_1.png" group-title="COSTA RICA",Canal 1
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 #EXTINF:-1 tvg-id="1059" tvg-name="Canal 2" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-2-Costa-Rica-en-vivo-Online.png" group-title="COSTA RICA",Canal 2
-https://d2t46xrpai3it5.cloudfront.net/Canal2CR/1ccdc8545fd05b83e9c57826d0de1069.sdp/playlist.m3u8
+https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="1059" tvg-name="Repretel Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/1200px-Repretel_4_logo.png" group-title="COSTA RICA",Repretel Canal 4
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="1059" tvg-name="Repretel Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Canal6CR.png/640px-Canal6CR.png" group-title="COSTA RICA",Repretel Canal 6
