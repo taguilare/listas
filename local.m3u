@@ -32,7 +32,7 @@ https://opa.usastreams.com:3101/live/canalopalive.m3u8
 #EXTINF:-1 tvg-id="1245" tvg-name="Canal TV Plus" tvg-logo="https://i2.paste.pics/dd383084a4c255e8445fb60f9001b9e6.png" group-title="COSTA RICA",Canal TV Plus
 https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1246" tvg-name="Cartago Medios" tvg-logo="https://i2.paste.pics/e82bca2c48209fe7ff1a9a559f36689f.png" group-title="COSTA RICA",Cartago Medios
-https://tvdatta.com:3384/live/cartagomedioslive.m3u8
+https://acceso.radiosportstv.online:3162/live/cartagomedioslive.m3u8
 #EXTINF:-1 tvg-id="1258" tvg-name="Limon TV" tvg-logo="https://i2.paste.pics/5ecf42519354156b3900d181808176ef.png" group-title="COSTA RICA",Limon TV
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1257" tvg-name="TV Curre" tvg-logo="https://i2.paste.pics/83fb31ad5340bda41b8e6f5930e1d4fc.png" group-title="COSTA RICA",TV Curre
