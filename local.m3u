@@ -71,10 +71,10 @@ https://magicstream.ddns.net:443/magicstream/stream.m3u8?PlaylistM3UCL
 http://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="1279" tvg-name="Chiquilines" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png" group-title="INTERNACIONALES",Chiquilines
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="INTERNACIONALES",Estrellas
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Pequeradio" tvg-logo="https://static.wixstatic.com/media/76b12f_980c794be91b440faac46de6e57eb10e~mv2.png" group-title="INTERNACIONALES",Pequeradio
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="INTERNACIONALES",Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="Multimedios Mexico" tvg-logo="https://i.imgur.com/M3RpKt3.png" group-title="INTERNACIONALES",Multimedios Mexico
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Estrella TV | Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/9/99/20200205000404!Estrella_TV_-_2020_logo.png" group-title="INTERNACIONALES",Estrella TV | Mexico
