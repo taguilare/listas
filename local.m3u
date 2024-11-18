@@ -8,7 +8,9 @@ https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="1059" tvg-name="Repretel Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Canal6CR.png/640px-Canal6CR.png" group-title="NACIONALES",Repretel Canal 6
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Teletica7.cr" tvg-name="Teletica 7" tvg-logo="https://i.imgur.com/ctnvE3c.png" group-title="NACIONALES",Teletica 7
-http://castlempire.site:8080/achacon1/VVo5375e36/170934
+https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Teletica7.cr" tvg-name="Teletica 7" tvg-logo="https://i.imgur.com/ctnvE3c.png" group-title="NACIONALES",Teletica 7
+https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u
 #EXTINF:-1 tvg-id="1043" tvg-name="Multimedios Canal 8" tvg-logo="https://i2.paste.pics/060625379c33c11acc84be7cdc18b4eb.png" group-title="NACIONALES",Multimedios Canal 8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1060" tvg-name="Repretel Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Repretel_11_logo.png" group-title="NACIONALES",Repretel Canal 11
@@ -74,7 +76,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/pla
 #EXTINF:-1 tvg-id="ext" tvg-name="Pequeradio" tvg-logo="https://static.wixstatic.com/media/76b12f_980c794be91b440faac46de6e57eb10e~mv2.png" group-title="INTERNACIONALES",Pequeradio
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="INTERNACIONALES",Estrellas
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
 #EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="Multimedios Mexico" tvg-logo="https://i.imgur.com/M3RpKt3.png" group-title="INTERNACIONALES",Multimedios Mexico
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Estrella TV | Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/9/99/20200205000404!Estrella_TV_-_2020_logo.png" group-title="INTERNACIONALES",Estrella TV | Mexico
