@@ -7,10 +7,6 @@ https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="1059" tvg-name="Repretel Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Canal6CR.png/640px-Canal6CR.png" group-title="NACIONALES",Repretel Canal 6
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="Teletica7.cr" tvg-name="Teletica 7" tvg-logo="https://i.imgur.com/ctnvE3c.png" group-title="NACIONALES",Teletica 7
-https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="Teletica7.cr" tvg-name="Teletica 7" tvg-logo="https://i.imgur.com/ctnvE3c.png" group-title="NACIONALES",Teletica 7
-https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u
 #EXTINF:-1 tvg-id="1043" tvg-name="Multimedios Canal 8" tvg-logo="https://i2.paste.pics/060625379c33c11acc84be7cdc18b4eb.png" group-title="NACIONALES",Multimedios Canal 8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1060" tvg-name="Repretel Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Repretel_11_logo.png" group-title="NACIONALES",Repretel Canal 11
@@ -18,17 +14,19 @@ https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="1050" tvg-name="TVN 14" tvg-logo="https://i2.paste.pics/7a71c98ae29da64846c3690f0417b341.png" group-title="NACIONALES",TVN 14
 https://stream.tvn14.com/TVN/CH14.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="1051" tvg-name="Tv Sur Canal 14" tvg-logo="https://i2.paste.pics/55978deeb5bf9d20b0c459cff3635225.png" group-title="NACIONALES",Tv Sur Canal 14
-https://5bf8041cb3fed.streamlock.net:443/TVSURCANAL14/TVSURCANAL14/playlist.m3u8?PlaylistM3UCL
+https://k20.usastreams.com:8081/tvsur/index.m3u8
 #EXTINF:-1 tvg-id="AnexionTV.cr" tvg-name="Anexion TV Canal 36" tvg-logo="https://i.imgur.com/7pfXF8N.png" group-title="NACIONALES",Anexion TV Canal 36
 https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="ext" tvg-name="Canal 38 OPA" tvg-logo="https://i0.wp.com/genteopa.com/wp-content/uploads/2024/01/ENVIVO.png" group-title="NACIONALES",Canal 38 OPA
 https://opa.usastreams.com:3066/live/canalopalive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.extratvcr.com/wp-content/uploads/2024/11/Extra-TV-1280x800-1.png" group-title="NACIONALES",Extra TV
+https://d2axu5ozwr5gk0.cloudfront.net/index.m3u8?
 #EXTINF:-1 tvg-id="1258" tvg-name="Limon TV" tvg-logo="https://i2.paste.pics/5ecf42519354156b3900d181808176ef.png" group-title="NACIONALES",Limon TV
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1047" tvg-name="Nicoya TV" tvg-logo="https://i2.paste.pics/3238d7371f23b09198d794d2979411b9.png" group-title="NACIONALES",Nicoya TV
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ext" tvg-name="Coto Brus TV" tvg-logo="https://www.coolstreaming.us/img/ch/image44256926188.jpg" group-title="NACIONALES",Coto Brus TV
-https://cloudvideo.servers10.com:8081/8030/index.m3u8
+https://stmv4.tropicalmoonmedia.com/coto/coto/playlist.m3u8
 #EXTINF:-1 tvg-id="GuatusoTV.cr" tvg-name="Guatuso TV" tvg-logo="https://www.grupodgrajal.com/images/logoguatusochannel.png" group-title="NACIONALES",Guatuso TV
 https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8
 #EXTINF:-1 tvg-id="SarapiquiTV.cr" tvg-name="Sarapiqui TV" tvg-logo="https://i.imgur.com/obTnd32.png" group-title="NACIONALES",Sarapiqui TV
@@ -63,7 +61,7 @@ https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1466" tvg-name="Energeek Retro" tvg-logo="https://neotv.cl/assets/img/channels/eg-retro-3.png" group-title="INTERNACIONALES",Energeek Retro
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://neotv.cl/assets/img/channels/fanpop-tv.png" group-title="INTERNACIONALES",Energeek Fan POP
+#EXTINF:-1 tvg-id="ext" tvg-name="Energeek Fan POP" tvg-logo="https://neotv.cl/assets/img/channels/fanpop-tv.png" group-title="INTERNACIONALES",Energeek Fan POP
 https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://image.roku.com/developer_channels/prod/b01a86f0fbf5dc54ee8f55060eb19cb7824e5c4fb01d70e5bd8db5c56e182a02.png" group-title="INTERNACIONALES",Dreiko TV
 https://cloudvideo.servers10.com:8081/8096/index.m3u8
@@ -75,9 +73,8 @@ http://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ext" tvg-name="Pequeradio" tvg-logo="https://static.wixstatic.com/media/76b12f_980c794be91b440faac46de6e57eb10e~mv2.png" group-title="INTERNACIONALES",Pequeradio
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="INTERNACIONALES",Estrellas
+#EXTINF:-1 tvg-id="ext" tvg-name="Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="INTERNACIONALES",Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-
 #EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="Multimedios Mexico" tvg-logo="https://i.imgur.com/M3RpKt3.png" group-title="INTERNACIONALES",Multimedios Mexico
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Estrella TV | Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/9/99/20200205000404!Estrella_TV_-_2020_logo.png" group-title="INTERNACIONALES",Estrella TV | Mexico
@@ -86,18 +83,8 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Classic Channel" tvg-logo="http://www.m3u.cl/logo/1430_Classic_Channel.png" group-title="INTERNACIONALES",Classic Channel
 https://paneltv.online:1936/8046/8046/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Retro Play TV" tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png" group-title="INTERNACIONALES",Retro Play TV
-https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Kanal D Drama" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="INTERNACIONALES",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Rakuten Comedy Movies | Espana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="INTERNACIONALES",Rakuten Comedy Movies | Espana
-https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Rakuten Action Movies | Espana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="INTERNACIONALES",Rakuten Action Movies | Espana
-https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Cine Juntos" tvg-logo="https://i.imgur.com/5ONURCJ.png" group-title="INTERNACIONALES",Cine Juntos
-https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Cine Horrorfy" tvg-logo="https://i.imgur.com/zIMRPHL.png" group-title="INTERNACIONALES",Cine Horrorfy
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 #EXTINF:-1 tvg-id="Filmstream.nl" tvg-name="Filmstream" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="INTERNACIONALES",Filmstream
 https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Telemax" tvg-logo="http://www.telemax.com.mx/wp-content/themes/multinews/images/logo.png" group-title="INTERNACIONALES",Telemax
@@ -108,14 +95,10 @@ https://marine2.miplay.cl/ntv/playlist.m3u8?PlaylistM3UCL
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="03" tvg-name="La Red TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/200px-La_Red_Logotipo_2021.svg.png" group-title="INTERNACIONALES",La Red TV
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/lared/livestream0/playlist.m3u8
-#EXTINF:-1 tvg-id="03" tvg-name="AM CANAL" tvg-logo="https://i.ytimg.com/vi/oV2EpXHQ5X8/maxresdefault.jpg" group-title="INTERNACIONALES",AM CANAL
-https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-name="Nuevo Tiempo" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="INTERNACIONALES",Nuevo Tiempo
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Telecolor TV" tvg-logo="https://i2.paste.pics/35c791e364c3adb7c6c2ef98504041a0.png" group-title="INTERNACIONALES",Telecolor TV
 https://live.obslivestream.com/telecolormux/index.m3u8
-#EXTINF:-1 tvg-id="926" tvg-name="Oxigeno Network" tvg-logo="https://i2.paste.pics/ef1ca23d4134cf47e55c3092fae7e513.png" group-title="INTERNACIONALES",Oxigeno Network
-https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="904" tvg-name="Latin Zone TV" tvg-logo="https://i2.paste.pics/80e0212c6d6715e2ebdda69e5f2a6c61.png" group-title="INTERNACIONALES",Latin Zone TV
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1075" tvg-name="Cadena Elite" tvg-logo="https://i2.paste.pics/9beaf1949244b5eb5e5ed3af28304f52.png" group-title="INTERNACIONALES",Cadena Elite
