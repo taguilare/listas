@@ -11,6 +11,8 @@ https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 https://acceso.radiosportstv.online:3203/stream/play.m3u8
 #EXTINF:-1 tvg-id="1043" tvg-name="Multimedios Canal 8" tvg-logo="https://i2.paste.pics/060625379c33c11acc84be7cdc18b4eb.png" group-title="NACIONALES",Multimedios Canal 8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1060" tvg-name="Canal 10" tvg-logo="https://image.roku.com/developer_channels/prod/60a9c756c81ed3704081ed935c696d2e43e26f8db24001b3ef5679c8f1fecc96.png" group-title="NACIONALES",Canal 10
+https://acceso.radiosportstv.online:3384/stream/play.m3u8
 #EXTINF:-1 tvg-id="1060" tvg-name="Repretel Canal 11" tvg-logo="https://www.repretel.com/wp-content/uploads/2024/11/LOGOS_CANALES11-150x84.png" group-title="NACIONALES",Repretel Canal 11
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="1050" tvg-name="TVN 14" tvg-logo="https://i2.paste.pics/7a71c98ae29da64846c3690f0417b341.png" group-title="NACIONALES",TVN 14
