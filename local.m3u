@@ -11,6 +11,8 @@ https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 https://acceso.radiosportstv.online:3203/stream/play.m3u8
 #EXTINF:-1 tvg-id="1043" tvg-name="Multimedios Canal 8" tvg-logo="https://i2.paste.pics/060625379c33c11acc84be7cdc18b4eb.png" group-title="NACIONALES",Multimedios Canal 8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="478" tvg-name="Telesistema" tvg-logo="https://i2.paste.pics/c9332e6e4a4d254c3a954e0c14d74e3a.png" group-title="NACIONALES",Telesistema
+https://k20.usastreams.com:8081/telesistema/index.m3u8
 #EXTINF:-1 tvg-id="1060" tvg-name="Canal 10" tvg-logo="https://image.roku.com/developer_channels/prod/60a9c756c81ed3704081ed935c696d2e43e26f8db24001b3ef5679c8f1fecc96.png" group-title="NACIONALES",Canal 10
 https://acceso.radiosportstv.online:3384/stream/play.m3u8
 #EXTINF:-1 tvg-id="1060" tvg-name="Repretel Canal 11" tvg-logo="https://www.repretel.com/wp-content/uploads/2024/11/LOGOS_CANALES11-150x84.png" group-title="NACIONALES",Repretel Canal 11
@@ -49,8 +51,6 @@ https://k20.usastreams.com:8081/telered/index.m3u8
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ext" tvg-name="TV Nosara" tvg-logo="https://cdn.m3u.cl/logo/1589_TV_Nosara.png" group-title="NACIONALES",TV Nosara
 https://acceso.radiosportstv.online:3430/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="478" tvg-name="Telesistema" tvg-logo="https://i2.paste.pics/c9332e6e4a4d254c3a954e0c14d74e3a.png" group-title="NACIONALES",Telesistema
-https://k20.usastreams.com:8081/telesistema/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Norte Informativo TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgabZY3R2M9WOFs064rcava3zaw4U9Tl5lOY3fhyeHeL___JXlY8fcnGbet0egyiYt797yNsJD1L4ak7Izq-vP2WVCZ3oBss1Z_BjXjniQRuAL11gf_jA6uhs2RaisBqsg94Pzki1W2M1k/s1600/Ilustrativo.jpg" group-title="NACIONALES",Norte Informativo TV
 https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1 tvg-id="1046" tvg-name="Radio 88 Stereo" tvg-logo="https://i2.paste.pics/191d7f0299ec0197d15d2e7b76ff037f.png" group-title="NACIONALES",Radio 88 Stereo
