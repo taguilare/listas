@@ -13,8 +13,6 @@ https://acceso.radiosportstv.online:3203/stream/play.m3u8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="478" tvg-name="Telesistema" tvg-logo="https://i2.paste.pics/c9332e6e4a4d254c3a954e0c14d74e3a.png" group-title="NACIONALES",Telesistema
 https://k20.usastreams.com:8081/telesistema/index.m3u8
-#EXTINF:-1 tvg-id="1060" tvg-name="Canal 10" tvg-logo="https://image.roku.com/developer_channels/prod/60a9c756c81ed3704081ed935c696d2e43e26f8db24001b3ef5679c8f1fecc96.png" group-title="NACIONALES",Canal 10
-https://acceso.radiosportstv.online:3384/stream/play.m3u8
 #EXTINF:-1 tvg-id="1060" tvg-name="Repretel Canal 11" tvg-logo="https://www.repretel.com/wp-content/uploads/2024/11/LOGOS_CANALES11-150x84.png" group-title="NACIONALES",Repretel Canal 11
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="1050" tvg-name="TVN 14" tvg-logo="https://i2.paste.pics/7a71c98ae29da64846c3690f0417b341.png" group-title="NACIONALES",TVN 14
@@ -24,7 +22,7 @@ https://k20.usastreams.com:8081/tvsur/index.m3u8
 #EXTINF:-1 tvg-id="AnexionTV.cr" tvg-name="Trivisión TV 36" tvg-logo="https://trivisioncr.com/wp-content/uploads/2024/04/cropped-LogoTR512x512-150x150.png" group-title="NACIONALES",Trivisión TV 36
 https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="ext" tvg-name="Canal 38 OPA" tvg-logo="https://genteopa.com/wp-content/uploads/2024/03/cropped-logo-opa-1.png" group-title="NACIONALES",Canal 38 OPA
-https://opa.usastreams.com:3066/live/canalopalive.m3u8
+https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Extra TV" tvg-logo="https://www.extratvcr.com/wp-content/uploads/2024/11/Extra-TV-1280x800-1.png" group-title="NACIONALES",Extra TV
 https://d2axu5ozwr5gk0.cloudfront.net/index.m3u8?
 #EXTINF:-1 tvg-id="1258" tvg-name="Limon TV" tvg-logo="https://i2.paste.pics/5ecf42519354156b3900d181808176ef.png" group-title="NACIONALES",Limon TV
