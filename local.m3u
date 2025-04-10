@@ -7,12 +7,12 @@ https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="1059" tvg-name="Repretel Canal 6" tvg-logo="https://www.repretel.com/wp-content/uploads/2024/11/LOGOS_CANALES6-150x84.png" group-title="NACIONALES",Repretel Canal 6
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Teletica 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/1200px-Teletica_Logo.png" group-title="NACIONALES",Teletica 7
-https://acceso.radiosportstv.online:3203/stream/play.m3u8
 #EXTINF:-1 tvg-id="1043" tvg-name="Multimedios Canal 8" tvg-logo="https://i2.paste.pics/060625379c33c11acc84be7cdc18b4eb.png" group-title="NACIONALES",Multimedios Canal 8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="478" tvg-name="Telesistema" tvg-logo="https://i2.paste.pics/c9332e6e4a4d254c3a954e0c14d74e3a.png" group-title="NACIONALES",Telesistema
 https://k20.usastreams.com:8081/telesistema/index.m3u8
+#EXTINF:-1 tvg-id="478" tvg-name="CR Channel" tvg-logo="https://costaricachannel.org/wp-content/uploads/2022/08/cropped-LOGO-CR-2022-2022-768x256.png" group-title="NACIONALES", CR Channel
+https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-id="1060" tvg-name="Repretel Canal 11" tvg-logo="https://www.repretel.com/wp-content/uploads/2024/11/LOGOS_CANALES11-150x84.png" group-title="NACIONALES",Repretel Canal 11
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="1050" tvg-name="TVN 14" tvg-logo="https://i2.paste.pics/7a71c98ae29da64846c3690f0417b341.png" group-title="NACIONALES",TVN 14
@@ -77,6 +77,8 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Azteca Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="INTERNACIONALES",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="VHD Channel" tvg-logo="https://techcentral.co.za/wp-content/uploads/2013/09/OpenView-HD.jpg" group-title="INTERNACIONALES",VHD Channel
+https://lbs-us1.suprememastertv.com/720p.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="ext" tvg-name="Classic Channel" tvg-logo="http://www.m3u.cl/logo/1430_Classic_Channel.png" group-title="INTERNACIONALES",Classic Channel
 https://paneltv.online:1936/8046/8046/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Kanal D Drama" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="INTERNACIONALES",Kanal D Drama
